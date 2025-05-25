@@ -1,4 +1,4 @@
-# 🇫🇷 France Travail - Récupération des offres d'emploi CDI (Département 07)
+# France Travail - Récupération des offres d'emploi CDI (Département 07)
 
 Ce projet permet de récupérer automatiquement les **offres d’emploi en CDI** dans le **département 07 (Ardèche)** depuis l’API publique de **France Travail**.  
 Les données sont exportées dans 3 fichiers CSV distincts : `offres.csv`, `entreprises.csv`, `competences.csv`.
@@ -16,7 +16,7 @@ Les données sont exportées dans 3 fichiers CSV distincts : `offres.csv`, `entr
 ---
 
 ## 🗂️ Structure du projet
-
+```bash
 ├── api.py # Authentification + récupération des offres
 ├── parser.py # Extraction des données brutes en 3 structures
 ├── utils.py # Export vers fichiers CSV
@@ -24,7 +24,7 @@ Les données sont exportées dans 3 fichiers CSV distincts : `offres.csv`, `entr
 ├── .env # Identifiants API (non versionné)
 ├── .gitignore # Fichiers à ne pas versionner
 └── README.md # Ce fichier
-
+```
 
 ---
 
@@ -41,6 +41,7 @@ Les données sont exportées dans 3 fichiers CSV distincts : `offres.csv`, `entr
    ```bash
    git clone https://github.com/<ton_utilisateur>/france-travail-etl.git
    cd france-travail-etl
+   ```
 
 2. **Création du fichier .env** 
 ```bash
