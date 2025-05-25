@@ -52,14 +52,14 @@ API_SCOPE=api_offresdemploiv2 o2dsoffre
 URL_API=https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search
 ```
 
-2. **Installation des dépendances** 
+3. **Installation des dépendances** 
 ```bash
 requests
 pandas
 python-dotenv
 ```
 
-3. **Lancer le script**
+4. **Lancer le script**
 ```bash
 python main.py
 ```
