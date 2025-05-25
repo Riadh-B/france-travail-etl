@@ -53,7 +53,6 @@ URL_API=https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search
 ```
 
 2. **Installation des dépendances** 
-Installation des dépendances
 ```bash
 requests
 pandas
