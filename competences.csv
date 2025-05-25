@@ -1,0 +1,1628 @@
+offre_id,competence_code,competence_libelle
+192WXGD,100259,Utilisation de matériel de nettoyage
+192WXGD,300147,"Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)"
+192WXGD,402021,"Adapter ses comportements à des interlocuteurs différents (collègues, hiérarchiques, services connexes)"
+192WXGD,489939,Appliquer et respecter les recommandations de dosage des différents produits d'entretien
+192WXGD,400815,Appliquer les principes du bio-nettoyage
+192WXGD,400637,Appliquer les recommandations de dosage des différents produits d'entretien
+192WXGD,124101,Approvisionner un chariot de ménage/chariot de linge
+192WXGD,404317,Créer une relation de confiance avec les patients
+192WXGD,104163,"Identifier et signaler les dysfonctionnements, les dégradations du mobilier et des équipements de la chambre"
+192WXGD,124719,Identifier les facteurs de risques sanitaires ou environnementaux
+192WXGD,482933,Maintenir un environnement sécurisé et confortable
+192WXGD,119622,Manipuler des produits de nettoyage et d'entretien
+192WXGD,126384,"Nettoyer, désinfecter et ranger la chambre et l'installation sanitaire"
+192WXGD,482991,Organiser le nettoyage des surfaces et sols en milieu hospitalier
+192WXGD,110155,"Préparer, servir et débarrasser les plateaux-repas"
+192WXGD,300451,Relayer de l'information
+192WXGD,300448,"Respecter des règles, des consignes, normes et procédures opérationnelles"
+192WXGD,404219,Respecter les protocoles de nettoyage et de désinfection
+192WXGD,486952,Respecter les protocoles de sécurité et d'hygiène en milieu hospitalier
+192WXGD,300446,"Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+192WXGD,300447,Respecter les règles d'éthique et de déontologie
+192WXGD,489938,Tracer les actions d'hygiène réalisées
+192WXGD,107327,Vérifier le contenu du chariot de ménage et procéder à la préparation des solutions de nettoyage
+192WLPN,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192WLPN,300181,"Entretenir un équipement, une machine, une installation"
+192WLPN,300375,"Organiser, aménager un espace de vente"
+192WLPN,300374,Présenter et valoriser un produit ou un service
+192VVQT,100090,Techniques pédagogiques
+192VVQT,300026,Concevoir l'ingénierie de formation et les séquences pédagogiques
+192VVPN,117781,Comptabilité client
+192VVPN,117782,Comptabilité fournisseurs
+192VVPN,120886,Logiciels comptables
+192VVPN,300305,"Effectuer le suivi des commandes, la facturation"
+192VVPN,300318,Réaliser des opérations comptables
+192VVPN,117141,Codifier un titre
+192VVPN,123228,Enregistrer les recettes d'une entreprise
+192VVPN,122050,Contrôler les recettes d'une entreprise
+192VDVM,124966,Types de sandwichs
+192VDVM,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192VDVM,104227,"Préparer, assembler des plats simples"
+192VDVM,483906,Assurer le nettoyage des équipements et du lieu de travail
+192VDVM,300268,Conditionner des produits
+192VDVM,483320,Maintenir un environnement de travail propre et organisé
+192VDVM,483907,Maintenir un environnement de travail sécurisé
+192VDVM,104262,Réaliser la plonge
+192VDVM,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+192VDVM,300448,"Respecter des règles, des consignes, normes et procédures opérationnelles"
+192TQBX,104167,Caractéristiques des produits d'entretien
+192TQBX,126141,Baliser les zones glissantes
+192TQBX,300152,Préparer du matériel en prévision d'un travail
+192TQBX,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192TQBX,300451,Relayer de l'information
+192QPNP,100341,Procédures d'encaissement
+192QPNP,102995,Règles de tenue de caisse
+192QPNP,300303,Procéder à l'encaissement
+192QPNP,300361,"Accueillir, orienter, renseigner un public"
+192QNDC,107834,Évaluer régulièrement les besoins de la personne
+192QNDC,123916,Orienter une personne vers des partenaires relais
+192NZPN,300723,Habilitation BAFA
+192NZPN,123811,Habilitation Prévention et Secours Civiques de niveau 1 (PSC1)
+192NZPN,100144,Respect des normes d'hygiène et de sécurité
+192NZPN,300030,Concevoir et animer des activités de détente ou de loisirs
+192NZPN,300449,Expliquer et faire respecter les règles et procédures
+192NZPN,103909,Informer les parents sur l'organisation de la structure et présenter le programme des activités aux enfants
+192NZPN,103913,"Observer le comportement, l'évolution de l'enfant et repérer d'éventuelles difficultés"
+192NZPN,107371,Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité
+192NVLC,300374,Présenter et valoriser un produit ou un service
+192NVLC,300375,"Organiser, aménager un espace de vente"
+192NVLC,116932,Assurer le suivi des stocks en temps réel
+192NVLC,300280,Organiser le traitement des commandes
+192LYMX,107201,Actualiser le dossier médical du patient
+192LYMX,123905,"Accueillir, orienter et renseigner un patient"
+192LYMX,124221,Renseigner des documents médico-administratifs
+192LYMX,,Outil informatique
+192LYMX,,Termes médicaux
+192LPZQ,100341,Procédures d'encaissement
+192LPZQ,102405,Techniques de mise en rayon
+192LPZQ,300374,Présenter et valoriser un produit ou un service
+192LPZQ,300375,"Organiser, aménager un espace de vente"
+192LBDC,100290,Techniques de stockage optimisé
+192LBDC,116932,Assurer le suivi des stocks en temps réel
+192LBDC,300253,Contrôler la conformité des données
+192LBDC,119668,"Contrôler la modalité de délivrance de certains médicaments spécifiques (stupéfiants, …)"
+192LBDC,118907,Réaliser des préparations pharmaceutiques
+192GLST,121228,Contrôler le balisage et l'étiquetage des produits en rayon
+192GLST,300375,"Organiser, aménager un espace de vente"
+192GLST,102912,Réaliser l'étiquetage de produits
+192GLST,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+192DFZC,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192DFZC,107814,Analyser le contexte de vie d'une personne
+192DFZC,107834,Évaluer régulièrement les besoins de la personne
+192DFZC,107913,Présenter à la personne les activités d'aide ou d'éveil et définir les modalités de mise en oeuvre et d'accompagnement
+192DFZC,107915,Repérer les modifications de l'état de santé d'une personne
+192CVNY,123905,"Accueillir, orienter et renseigner un patient"
+192CVNY,107201,Actualiser le dossier médical du patient
+192CVNY,124221,Renseigner des documents médico-administratifs
+192BDWF,116932,Assurer le suivi des stocks en temps réel
+192BDWF,300376,Mettre en oeuvre des actions commerciales et promotionnelles
+192BDWF,300375,"Organiser, aménager un espace de vente"
+192BDWF,300374,Présenter et valoriser un produit ou un service
+191ZWBX,104167,Caractéristiques des produits d'entretien
+191ZWBX,126141,Baliser les zones glissantes
+191ZWBX,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191ZWBX,300152,Préparer du matériel en prévision d'un travail
+191ZWBX,300451,Relayer de l'information
+191YZLJ,124919,"Cuire des viandes, poissons ou légumes"
+191YZLJ,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191YZLJ,300090,Préparer des plats culinaires
+191YZLJ,116233,Réaliser des techniques de préparation culinaire en collectivité
+191YXMX,100090,Techniques pédagogiques
+191YXMX,300026,Concevoir l'ingénierie de formation et les séquences pédagogiques
+191YQPH,402021,"Adapter ses comportements à des interlocuteurs différents (collègues, hiérarchiques, services connexes)"
+191YQPH,300451,Relayer de l'information
+191XNRD,300180,"Contrôler la conformité d'un équipement, d'une machine, d'une installation"
+191XNRD,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191XNRD,300135,"Monter et régler une installation, une machine"
+191XNRD,104854,"Surveiller l'approvisionnement des machines, des installations et le flux des matières ou des produits"
+191XJRF,300361,"Accueillir, orienter, renseigner un public"
+191XJRF,104090,Assurer un accueil téléphonique
+191XJRF,300451,Relayer de l'information
+191VBRB,100341,Procédures d'encaissement
+191VBRB,102995,Règles de tenue de caisse
+191VBRB,300303,Procéder à l'encaissement
+191SXDT,120886,Logiciels comptables
+191SXDT,117139,Codifier une facture
+191SXDT,117140,Codifier un mandat
+191SXDT,117141,Codifier un titre
+191SXDT,300305,"Effectuer le suivi des commandes, la facturation"
+191PCCQ,117785,Logiciels immobiliers
+191PCCQ,118873,Recouvrement des loyers et charges
+191PCCQ,121368,Analyser une demande de location
+191PCCQ,300345,Gérer des réclamations et litiges
+191PCCQ,118872,Établir un bail immobilier
+191PCCQ,121370,Proposer l'attribution de logements
+191PCCQ,300329,Réaliser des opérations de gestion immobilière
+191PCCQ,118871,Réaliser un état des lieux
+191GJMF,104316,Techniques de service à l'assiette
+191GJMF,122435,Système Hazard Analysis Critical Control Point (HACCP)
+191GJMF,104230,"Remettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)"
+191GJMF,104262,Réaliser la plonge
+191GJMF,124963,Réaliser un service en salle
+191GJMF,300181,"Entretenir un équipement, une machine, une installation"
+191GJMF,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+190ZLPV,122958,Contrats de travail
+190ZLPV,122090,Gestion de la paie
+190ZLPV,119437,Logiciel de paie
+190ZLPV,300719,Gestion administrative du temps de travail
+190ZLPV,117600,Établir un bulletin de paie
+190ZLPV,123912,Préparer les éléments constitutifs de la paie
+190ZLPV,300324,Concevoir des supports de suivi et de gestion
+190ZLPV,403010,Réaliser des opérations liées à la gestion des ressources humaines
+190ZLPV,119324,"Actualiser des processus, des méthodes et outils de gestion"
+190ZLPV,122694,Réaliser la gestion des arrêts maladie
+190RRLN,100341,Procédures d'encaissement
+190RRLN,102995,Règles de tenue de caisse
+190RRLN,300303,Procéder à l'encaissement
+185FSLJ,104138,Normes d'hébergement touristique
+185FSLJ,122148,Activités d'une structure d'hébergement
+185FSLJ,123788,Activités d'une structure de jeux ou de loisirs
+185FSLJ,119210,Effectuer la maintenance de premier niveau des outillages et des équipements
+185FSLJ,119404,Évaluer les procédures de contrôle d'une structure
+185FSLJ,300009,Concevoir et piloter une politique de gestion des ressources humaines
+185FSLJ,300174,"Élaborer et planifier un programme de production, d'exploitation"
+185FSLJ,300180,"Contrôler la conformité d'un équipement, d'une machine, d'une installation"
+185FSLJ,300197,"Élaborer un schéma directeur technique, définir des besoins en équipement"
+185FSLJ,300411,Parler une ou plusieurs langues étrangères
+185FSLJ,300426,Utiliser les outils numériques
+185FSLJ,300440,"Animer, coordonner une équipe"
+185FSLJ,300621,"Informer, renseigner, orienter une personne sur les prestations et services proposés"
+185FSLJ,400305,Développer et fidéliser la relation des clients
+185FSLJ,400306,Déterminer et mettre en place l'organisation de l'exploitation
+185FSLJ,403009,Gérer les ressources humaines
+192VDVV,489606,CAP commercialisation et services en hôtel-café-restaurant
+192VDVV,101901,Accueillir le client et l'installer
+192VDVV,117933,Effectuer le service des plats à table
+192VDVV,117932,Réaliser la mise en place de la salle et de l'office
+192VDVV,484953,Maintenir une communication claire et professionnelle
+192VDVV,124961,Préparer des boissons chaudes ou froides
+192VDVV,300448,"Respecter des règles, des consignes, normes et procédures opérationnelles"
+192VDVV,300446,"Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+192VDVV,403892,S'exprimer avec politesse et courtoisie
+192VDVQ,124966,Types de sandwichs
+192VDVQ,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192VDVQ,104227,"Préparer, assembler des plats simples"
+192VDVQ,104230,"Remettre la commande au client (service à l'assiette, emballage à emporter, plateau, ...)"
+192SJQR,100259,Utilisation de matériel de nettoyage
+192SJQR,126384,"Nettoyer, désinfecter et ranger la chambre et l'installation sanitaire"
+192SJQR,107327,Vérifier le contenu du chariot de ménage et procéder à la préparation des solutions de nettoyage
+192SJQR,489977,Accompagner les personnes dans les gestes de la vie quotidienne
+192SJQR,107663,Distribuer les repas et collations au patient/résident selon les besoins ou la prescription médicale
+192SCCH,122827,Techniques d'ébourgeonnage
+192SCCH,122828,Techniques d'effeuillage
+192SCCH,100039,Techniques de soins aux arbres ou ceps
+192SCCH,122826,Techniques de taille de fructification
+192SCCH,122825,"Entretenir un arbre, une plantation"
+192RLQG,300375,"Organiser, aménager un espace de vente"
+192RLQG,300303,Procéder à l'encaissement
+192RLQG,102912,Réaliser l'étiquetage de produits
+192RLQG,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+192QKGH,107370,Pathologies de l'enfant
+192QKGH,107371,Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité
+192QKGH,107368,Accueillir des enfants
+192QKGH,107369,Préparer et donner une prescription médicale à l'enfant
+192QKGH,300408,"Rédiger un rapport, un compte rendu d'activité"
+192QFGG,120373,Agir rapidement en cas d'accident ou d'imprévu
+192QFGG,484248,Appliquer les procédures de sécurité en cas d'urgence
+192QFGG,300284,Contrôler l'accès et la circulation des personnes
+192QFGG,400633,Détecter et localiser tout individu ou tout comportement présentant une menace pour la sécurité/sûreté
+192QFGG,400323,Gérer des situations de crise ou d'urgence
+192QFGG,300480,Gérer une situation conflictuelle
+192QFGG,300451,Relayer de l'information
+192QFGG,108844,"Repérer les anomalies, incidents et informer les forces de l'ordre et les clients"
+192MHJY,122826,Techniques de taille de fructification
+192MHJY,122825,"Entretenir un arbre, une plantation"
+192MHJY,122730,"Préparer les sols, les plantations (épandage, semis, etc.)"
+192KWZY,120886,Logiciels comptables
+192KWZY,117139,Codifier une facture
+192KWZY,117140,Codifier un mandat
+192KWZY,117141,Codifier un titre
+192KWZY,300305,"Effectuer le suivi des commandes, la facturation"
+192KRCB,300284,Contrôler l'accès et la circulation des personnes
+192KRCB,300451,Relayer de l'information
+192KRCB,108844,"Repérer les anomalies, incidents et informer les forces de l'ordre et les clients"
+192KRCB,,carte professionnelle à  jour
+192KGBK,101738,"Caractéristiques des farines levure, additifs"
+192KGBK,126290,Bouler et effectuer la tourne ou le façonnage des pâtons
+192KGBK,124959,Cuire des pièces de viennoiserie
+192KGBK,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192KGBK,300181,"Entretenir un équipement, une machine, une installation"
+192HXBZ,100259,Utilisation de matériel de nettoyage
+192HXBZ,126384,"Nettoyer, désinfecter et ranger la chambre et l'installation sanitaire"
+192HXBZ,107327,Vérifier le contenu du chariot de ménage et procéder à la préparation des solutions de nettoyage
+192FFBD,104167,Caractéristiques des produits d'entretien
+192FFBD,126141,Baliser les zones glissantes
+192FFBD,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192FFBD,300152,Préparer du matériel en prévision d'un travail
+192FFBD,300451,Relayer de l'information
+192DGFD,300017,Accompagner une personne dans l'acquisition de connaissances
+192DGFD,300174,"Élaborer et planifier un programme de production, d'exploitation"
+192DGFD,300445,Évaluer et développer les compétences de ses collaborateurs
+192BGQR,300265,"Charger, décharger, manutentionner des produits"
+191ZPZG,120031,Documents de bord d'un véhicule
+191ZPZG,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+191ZPZG,300275,Transporter des passagers
+191ZPZG,110536,Transporter des scolaires
+191ZPZG,110527,Contrôler l'état de fonctionnement du véhicule
+191YPDS,104167,Caractéristiques des produits d'entretien
+191YPDS,126141,Baliser les zones glissantes
+191YPDS,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191YPDS,300181,"Entretenir un équipement, une machine, une installation"
+191YPDS,300152,Préparer du matériel en prévision d'un travail
+191XTZV,121228,Contrôler le balisage et l'étiquetage des produits en rayon
+191XTZV,300375,"Organiser, aménager un espace de vente"
+191XTZV,102912,Réaliser l'étiquetage de produits
+191XTZV,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+191VVSF,107834,Évaluer régulièrement les besoins de la personne
+191VVSF,123916,Orienter une personne vers des partenaires relais
+191VBRT,121228,Contrôler le balisage et l'étiquetage des produits en rayon
+191VBRT,300375,"Organiser, aménager un espace de vente"
+191VBRT,102912,Réaliser l'étiquetage de produits
+191VBRT,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+191PXHR,107371,Accompagner l'enfant dans l'apprentissage des gestes de la vie quotidienne et des règles de vie en collectivité
+191PXHR,107372,Veiller à la sécurité de l'enfant au domicile et à l'extérieur
+191PXHR,121801,Concevoir un projet éducatif
+191PXHR,107848,Organiser et animer des activités ludiques et d'éveil
+191MJFR,300284,Contrôler l'accès et la circulation des personnes
+191MJFR,300180,"Contrôler la conformité d'un équipement, d'une machine, d'une installation"
+191MJFR,124181,Établir un rapport d'accident et d'incident
+191MJFR,300451,Relayer de l'information
+191MJFR,300506,Renseigner les supports de contrôle et de constat
+191MJFR,108844,"Repérer les anomalies, incidents et informer les forces de l'ordre et les clients"
+191MJFR,404879,"Vérifier les accréditations, droits d'entrée, titres d'accès"
+190YRKV,104172,Utilisation de machine de plonge automatisée
+190YRKV,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+190YRKV,104263,"Essuyer et ranger la vaisselle, la verrerie, les ustensiles de cuisine"
+190YRKV,104262,Réaliser la plonge
+190YRKV,300181,"Entretenir un équipement, une machine, une installation"
+190YRKV,119622,Manipuler des produits de nettoyage et d'entretien
+190YRKV,300448,"Respecter des règles, des consignes, normes et procédures opérationnelles"
+190YRKV,400613,Respecter les protocoles de sécurité en vigueur
+190YRKV,489877,Respecter les règles d'hygiène et de sécurité alimentaire
+190YRKV,489879,Respecter les standards qualité de l'établissement
+190YRKV,114538,Vérifier l'état de propreté de la vaisselle et la ranger
+190CBVG,116411,Habillage / déshabillage du patient
+190CBVG,103396,Techniques de levage et de transfert
+190CBVG,400546,"Stimuler les capacités affectives, intellectuelles, psychomotrices et sociales d'une personne"
+190CBVG,300597,Contribuer au bien-être physique d'une personne
+190CBVG,489977,Accompagner les personnes dans les gestes de la vie quotidienne
+190CBVG,489979,Veiller à l'hygiène corporelle des personnes
+190CBVG,,savoir faire une aide à la toilette
+192XDYN,104167,Caractéristiques des produits d'entretien
+192XDYN,126141,Baliser les zones glissantes
+192XDYN,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192XDYN,300152,Préparer du matériel en prévision d'un travail
+192XDYN,300451,Relayer de l'information
+192WRKM,300204,Administrer un système d'informations
+192WRKM,,"Infrastructure réseau (DNS, DHCP, VLAN...)"
+192WRKM,,"Outils collaboratifs : Microsoft 365, Google Works"
+192WRKM,,Systèmes Windows Server & virtualisation (Hyper-V)
+192WRKM,,"Bonne culture sécurité (sauvegarde,antivirus, PRA)"
+192WCSP,100016,Gestes et postures de manutention
+192WCSP,102405,Techniques de mise en rayon
+192WCSP,116932,Assurer le suivi des stocks en temps réel
+192WCSP,300378,Assurer un service après-vente
+192WCSP,300379,Développer et fidéliser la relation client
+192WCSP,300264,Manipuler un engin de manutention ou de chantier
+192WCSP,300374,Présenter et valoriser un produit ou un service
+192WCSP,300303,Procéder à l'encaissement
+192WCSP,123660,Ranger des produits ou marchandises selon leurs dates de validité et les conditions de conservation
+192WCSP,117468,Réaliser la mise en rayon
+192WCSP,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+192VHMP,489732,Utilisation de logiciels de contrôle
+192VHMP,126340,Gestion des relations clientèle
+192VHMP,489782,Contrôler les équipements de freinage d'un véhicule
+192VHMP,489775,Contrôler la direction et la liaison au sol d'un véhicule pour s'assurer de la conformité technique
+192VHMP,489780,Contrôler les éléments liés à la visibilité et autres matériels d'un véhicule
+192VHMP,489783,"Contrôler les feux, les dispositifs réfléchissants et les équipements électriques d'un véhicule"
+192VHMP,489777,Contrôler le châssis et les accessoires de châssis d'un véhicule
+192VHMP,489784,Contrôler les nuisances d'un véhicule pour s'assurer de la conformité technique du véhicule
+192VHMP,489778,Contrôler l'ensemble des équipements spécifiques aux véhicules électriques et hybrides
+192VHMP,104174,"Accueillir, orienter et renseigner un client"
+192VHMP,121936,Prendre en charge un client
+192VHMP,489880,Restituer le procès-verbal et transmettre les différents documents relatifs au contrôle technique
+192VDWF,124935,Dresser des plats pour le service
+192VDWF,300010,Aménager un poste et les conditions de travail
+192TQKQ,103070,Lecture de plans et de schémas
+192TQKQ,104514,Mise à jour des connaissances en mécanique
+192TQKQ,100017,Règles de sécurité
+192TQKQ,106186,"Vérifier le montage/assemblage (aspect, parallélisme, jeu, maintien, fonctionnement, ...) et procéder aux ajustements, retouches"
+192TQKQ,106184,"Vérifier, positionner et fixer les pièces et les éléments de l'assemblage (bâtis, grappes, gabarits, structures, ...)"
+192TLCD,102096,Normes d'hygiène et de propreté
+192TLCD,107920,Effectuer les courses d'une personne
+192TKLQ,102096,Normes d'hygiène et de propreté
+192TKLQ,107920,Effectuer les courses d'une personne
+192SZHK,110527,Contrôler l'état de fonctionnement du véhicule
+192SZHK,110473,Optimiser un plan de chargement des marchandises
+192SZHK,124795,Organiser des itinéraires de livraison optimisés
+192SZHK,120377,Réaliser les opérations d'attelage
+192SZHK,110474,Vérifier l'exactitude et la conformité de documents de transport de marchandises
+192SYCV,117414,Méthodes de contrôle d'étanchéité
+192SYCV,121168,Couper les éléments de fermetures menuisées
+192SYCV,124331,Démonter une fermeture menuisée et vérifier l'état du support
+192SYCV,123243,Fixer des éléments menuisés
+192SYCV,103592,"Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ..."
+192RXJD,104167,Caractéristiques des produits d'entretien
+192RXJD,126141,Baliser les zones glissantes
+192RXJD,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192RXJD,300152,Préparer du matériel en prévision d'un travail
+192RXJD,300451,Relayer de l'information
+192RXJD,300440,"Animer, coordonner une équipe"
+192RXJD,300636,Organiser et planifier une activité
+192RXFT,120031,Documents de bord d'un véhicule
+192RXFT,120373,Agir rapidement en cas d'accident ou d'imprévu
+192RXFT,110527,Contrôler l'état de fonctionnement du véhicule
+192RXFT,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+192RXFT,300275,Transporter des passagers
+192RVZN,104167,Caractéristiques des produits d'entretien
+192RVZN,126141,Baliser les zones glissantes
+192RVZN,125971,Définir des besoins en approvisionnement
+192RVZN,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192RVZN,300152,Préparer du matériel en prévision d'un travail
+192RVZN,300451,Relayer de l'information
+192RTPL,300135,"Monter et régler une installation, une machine"
+192RTPL,300153,"Utiliser un outil, une machine, un équipement, une installation"
+192RTPL,106714,Réaliser les réglages de mise au point de l'équipement industriel ou d'exploitation et contrôler son fonctionnement
+192RTPL,400355,"Lire et exploiter un plan, un schéma"
+192RCML,100090,Techniques pédagogiques
+192RCML,108490,Conseiller des apprenants dans l'organisation de leur travail personnel
+192RCML,300022,"Enseigner, transmettre des connaissances, développer des compétences"
+192RCML,108491,Renseigner des supports d'évaluation scolaire
+192QKXF,123793,Contrôler l'état de conservation d'un produit périssable
+192QKXF,300375,"Organiser, aménager un espace de vente"
+192QKXF,300374,Présenter et valoriser un produit ou un service
+192QKXF,102903,Retirer des produits non conformes
+192QKVK,124919,"Cuire des viandes, poissons ou légumes"
+192QKVK,124935,Dresser des plats pour le service
+192QKVK,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192QKVK,124947,Éplucher des légumes et des fruits
+192QKVK,104207,Préparer les viandes et les poissons
+192PWXY,400409,Monter ou démonter un échafaudage
+192PWXY,103566,Préparer la peinture
+192PMBS,121814,Protocoles de soins
+192PMBS,121815,Apporter un appui technique pour le personnel
+192PMBS,300058,Concevoir des protocoles de soins
+192PMBS,300449,Expliquer et faire respecter les règles et procédures
+192PMBS,300487,Piloter une activité
+192NZFS,100343,Législation sociale
+192NZFS,119324,"Actualiser des processus, des méthodes et outils de gestion"
+192NZFS,300324,Concevoir des supports de suivi et de gestion
+192NZFS,124607,Réaliser des déclarations réglementaires
+192NYSW,125252,Techniques de nettoyage des moquettes
+192NYSW,104167,Caractéristiques des produits d'entretien
+192NYSW,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192NYSW,300152,Préparer du matériel en prévision d'un travail
+192NYSW,126141,Baliser les zones glissantes
+192MZSP,107474,Concevoir un projet thérapeutique
+192MZSP,107494,"Détecter des contre-indications suite à des fractures, des infections osseuses et orienter le patient vers un médecin, psychologue, ..."
+192MZSP,107496,Organiser la séance de kinésithérapie et l'adapter
+192MZSP,107493,Réaliser le diagnostic masso kinésithérapique à partir de tests de force musculaire et de posture
+192MZSP,300408,"Rédiger un rapport, un compte rendu d'activité"
+192MQKC,123793,Contrôler l'état de conservation d'un produit périssable
+192MQKC,125971,Définir des besoins en approvisionnement
+192MQKC,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192MQKC,118069,Gérer une caisse
+192MQKC,300375,"Organiser, aménager un espace de vente"
+192MQKC,300374,Présenter et valoriser un produit ou un service
+192MQKC,300303,Procéder à l'encaissement
+192MQKC,117468,Réaliser la mise en rayon
+192MQKC,102903,Retirer des produits non conformes
+192MCSD,103070,Lecture de plans et de schémas
+192MCSD,103598,Menuiserie PVC
+192MCSD,121182,Installer une serrure et des accessoires de fermeture
+192MCSD,300152,Préparer du matériel en prévision d'un travail
+192MCSD,300233,"Réaliser les travaux de montage, d'assemblage"
+192MCSD,300451,Relayer de l'information
+192LVFN,107715,Réaliser des soins infirmiers
+192LQPY,483323,"Adapter les recettes pour des besoins spécifiques (allergies, régimes alimentaires, préférences)"
+192LQPY,403326,Assurer la propreté de la zone de travail
+192LQPY,403583,Assurer le respect des normes d'hygiène et de sécurité alimentaire
+192LQPY,403391,Commander les produits et matières premières auprès des différents fournisseurs et agriculteurs de sa région
+192LQPY,300091,Concevoir des recettes et menus
+192LQPY,483183,Créer des menus saisonniers pour refléter la diversité des produits
+192LQPY,124919,"Cuire des viandes, poissons ou légumes"
+192LQPY,119439,Cuisiner des sauces pour accompagner les produits
+192LQPY,489791,Déterminer les coûts de revient des préparations culinaires
+192LQPY,124935,Dresser des plats pour le service
+192LQPY,122877,Entretenir des équipements de cuisine professionnelle
+192LQPY,300298,"Evacuer et trier des déchets, des produits"
+192LQPY,402226,Favoriser un environnement de travail collaboratif
+192LQPY,403497,Gérer l'approvisionnement des matières premières nécessaires en cuisine afin d'éviter les excédents ou la rupture de stock
+192LQPY,485917,Gérer les urgences et les imprévus en cuisine
+192LQPY,483178,Gérer le timing de préparation pour un service efficace
+192LQPY,403537,"Goûter les préparations culinaires, ajuster leur assaisonnement et prêter attention à l'esthétique des plats avant de les servir"
+192LQPY,483181,Optimiser les coûts des ingrédients tout en maintenant la qualité
+192LQPY,403543,"Organiser le stockage des denrées, en les triant par dates de péremption par exemple"
+192LQPY,403609,Participer à l'élaboration des menus et des cartes avec le responsable de restaurant et/ou d'établissement
+192LQPY,300090,Préparer des plats culinaires
+192LQPY,104207,Préparer les viandes et les poissons
+192LQPY,114513,"Réaliser des tests de contrôle de fraîcheur des aliments, des préparations et prélever des échantillons pour le service d'hygiène"
+192LQPY,489852,"Réaliser les fiches techniques pour chaque plat (ingrédients, quantités, prix, ...)"
+192LQPY,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+192LPPD,107715,Réaliser des soins infirmiers
+192LKNN,116477,Indicateurs de suivi d'activité
+192LKNN,100822,Techniques d'usinage
+192LKNN,300256,Contrôler la qualité et la conformité d'un livrable
+192LKNN,300135,"Monter et régler une installation, une machine"
+192LKNN,300175,"Piloter la gestion de la production, de l'exploitation"
+192LHDW,107908,Accompagner la mise en oeuvre d'un projet socioéducatif et proposer des axes d'adaptation à la personne
+192LHDW,404186,"Adapter son comportement, sa pratique professionnelle aux situations"
+192LHDW,300474,"Alerter, demander un appui ou un arbitrage"
+192LHDW,489996,Appliquer le projet socioéducatif avec la personne et lui proposer des axes d'adaptation en concertation avec l'équipe
+192LHDW,300436,Organiser le travail d'une équipe
+192LCBS,103070,Lecture de plans et de schémas
+192LCBS,100822,Techniques d'usinage
+192LCBS,104807,Utilisation d'instruments de mesure tridimensionnelle
+192LCBS,118331,Utilisation d'outillage manuel
+192LCBS,300256,Contrôler la qualité et la conformité d'un livrable
+192LCBS,119210,Effectuer la maintenance de premier niveau des outillages et des équipements
+192LCBS,402279,Régler les paramètres d'usinage
+192KXCV,108568,Règles de conduite et de sécurité routière
+192KXCV,123048,Évaluer la conduite d'un élève
+192KXCV,124590,"Évaluer le nombre d'heures de code, de conduite ou de pilotage"
+192KXCV,123191,Former à la conduite d'un véhicule
+192KQJR,124919,"Cuire des viandes, poissons ou légumes"
+192KQJR,124935,Dresser des plats pour le service
+192KQJR,124947,Éplucher des légumes et des fruits
+192KQJR,104207,Préparer les viandes et les poissons
+192KQJR,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192KPMV,104679,Méthodes process
+192KPMV,114564,Procédés de fabrication ou d'industrialisation
+192KPMV,402014,Accompagner la réalisation de préséries et le démarrage de l'industrialisation de produits
+192KPMV,123311,Analyser un dysfonctionnement ou une non-conformité
+192KPMV,121049,"Apporter un appui technique aux services qualité, maintenance, méthodes, inspection"
+192KPMV,114622,"Concevoir ou adapter des outillages et les décrire sous forme de plans, schémas, cahiers des charges"
+192KPMV,300322,"Contrôler des indicateurs de performance, analyser et corriger des écarts"
+192KPMV,122852,Documenter les procédures de fabrication
+192KPMV,300146,Élaborer des processus et des modes opératoires techniques
+192KPMV,300308,Estimer les coûts et les délais d'une activité ou d'une prestation
+192KPMV,402148,"Étudier, définir et formaliser un process de fabrication par usinage"
+192KPMV,300315,"Identifier et sélectionner des fournisseurs, sous-traitants, prestataires"
+192KPMV,400355,"Lire et exploiter un plan, un schéma"
+192KPMV,300125,"Renseigner, mettre à jour une documentation technique"
+192KPMV,300444,Valoriser et partager les bonnes pratiques
+192KPFT,479001,Connaissance des câblages spécifiques poids lourds
+192KPFT,490308,Systèmes hydrauliques et électriques
+192KPFT,100286,Techniques de soudure
+192KPFT,122982,Technologie des équipements électriques
+192KPFT,491741,Appliquer la réglementation VGP (Vérification Générale Périodique) en termes d’équipement et accessoires des véhicules industriels 
+192KPFT,489756,Appliquer les normes relatives à la prévention des risques électriques
+192KPFT,491738,Déposer et Poser des équipements et accessoires des véhicules industriels 
+192KPFT,118362,Déterminer une solution technique de remise en état du véhicule et des équipements
+192KPFT,484979,Maintenir l'atelier en ordre et sécurisé pour prévenir les accidents
+192KPFT,491740,Paramétrer et programmer des équipements et accessoires des véhicules industriels 
+192KPFT,490095,Remettre en conformité les faisceaux électriques 
+192KPFT,114827,"Surveiller l'usure et remettre en état des outillages, outils, organes, ensembles, systèmes mécaniques"
+192KGBL,118972,Nutrition animale
+192KGBL,300751,Soins aux animaux
+192KGBL,100408,"Identifier le motif de consultation, le degré d'urgence et informer le propriétaire de l'animal sur les modalités de prise en charge"
+192KGBL,100409,Manipuler des animaux
+192KGBL,100410,"Préparer le matériel et apporter une aide technique au vétérinaire, à l'éleveur, ..."
+192KCZH,100090,Techniques pédagogiques
+192KCZH,100541,"Techniques de communication orales, écrites et numériques"
+192KCZH,103848,Animation de groupes
+192KCZH,118140,Technologies de l'information et de la communication (TIC)
+192KCZH,124869,Charte des FabLabs
+192KCZH,126356,Règles de diffusion et de communication de l'information
+192KCZH,103888,Concevoir le programme des activités selon les spécificités du public
+192KCZH,103889,Identifier les attentes du public et l'informer sur la ou les activités d'animation et les modalités d'organisation
+192KCZH,103890,Concevoir une animation événementielle
+192KCZH,117529,Optimiser l'espace de rangement
+192KCZH,140975,Accompagner et développer l'autonomie dans l'usage des outils numériques et des services digitaux
+192KCZH,300017,Accompagner une personne dans l'acquisition de connaissances
+192KCZH,300110,Mettre en oeuvre des actions de communication
+192KCZH,300111,Définir une stratégie de communication
+192KCZH,300119,Réaliser une veille documentaire
+192KCZH,300123,"Créer, organiser ou coordonner un évènement"
+192KCZH,300125,"Renseigner, mettre à jour une documentation technique"
+192KCZH,300260,Gérer les stocks
+192KCZH,300426,Utiliser les outils numériques
+192KCZH,300449,Expliquer et faire respecter les règles et procédures
+192KCZH,,bonnes notions en réseau
+192KCZH,,connaissance du logiciel Dolibar
+192HRBH,476882,Capacité à travailler en équipe
+192HRBH,124959,Cuire des pièces de viennoiserie
+192HRBH,124960,Défourner des pains et viennoiseries
+192GYSQ,121306,Assembler des canalisations
+192GYSQ,300230,"Découper, tailler des matières premières"
+192GYSQ,106269,"Préparer les embouts et les bords à souder, à visser et les ajuster"
+192GYSQ,121314,Raccorder et fixer des lignes et accessoires de tuyauterie
+192GYSQ,106160,Relever et reporter des cotes
+192GTDW,100016,Gestes et postures de manutention
+192GTDW,102405,Techniques de mise en rayon
+192GTDW,117468,Réaliser la mise en rayon
+192GSTK,126284,Techniques de formation collective
+192GSTK,100090,Techniques pédagogiques
+192GSTK,300440,"Animer, coordonner une équipe"
+192GSTK,108517,"Concevoir et préparer les cours, les travaux dirigés ou les travaux pratiques"
+192GSTK,300026,Concevoir l'ingénierie de formation et les séquences pédagogiques
+192GSQX,110036,"Réaliser le prélèvement de produits selon les instructions de préparation de commande et constituer les colis, lots, ..."
+192GSQX,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+192GSQX,300265,"Charger, décharger, manutentionner des produits"
+192GQRN,100016,Gestes et postures de manutention
+192GQRN,102405,Techniques de mise en rayon
+192GQRN,300374,Présenter et valoriser un produit ou un service
+192GQRN,117468,Réaliser la mise en rayon
+192GNZV,116903,Stratégies de communication externe
+192GNZV,107905,Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne
+192GNZV,107908,Accompagner la mise en oeuvre d'un projet socioéducatif et proposer des axes d'adaptation à la personne
+192GNZV,300436,Organiser le travail d'une équipe
+192GBNV,117414,Méthodes de contrôle d'étanchéité
+192GBNV,121168,Couper les éléments de fermetures menuisées
+192GBNV,124331,Démonter une fermeture menuisée et vérifier l'état du support
+192GBNV,123243,Fixer des éléments menuisés
+192GBNV,103592,"Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ..."
+192GBNB,116706,Contrôler les réparations
+192GBNB,300436,Organiser le travail d'une équipe
+192GBNB,116682,Planifier des réparations
+192GBNB,116707,Planifier les réceptions de véhicules
+192FVVZ,104167,Caractéristiques des produits d'entretien
+192FVVZ,107349,Procédures de nettoyage écologique
+192FVVZ,108703,"Protocoles d'hygiène d'environnement sensible (alimentaire, chimie, ...)"
+192FVVZ,125248,Techniques de cirage de surfaces/sols
+192FVVZ,125247,Techniques de décapage de surfaces/sols
+192FVVZ,108695,Techniques de lavage mécanisées des sols
+192FVVZ,125249,Techniques de lustrage de surfaces/sols
+192FVVZ,125251,Techniques de récurage de surfaces/sols
+192FVVZ,125252,Techniques de nettoyage des moquettes
+192FVVZ,125149,Utilisation d'autolaveuses
+192FVVZ,125151,Utilisation de machines de nettoyage à injection ou extraction
+192FVVZ,125152,Utilisation de machines de nettoyage électromécanique
+192FVVZ,125150,Utilisation de machines de nettoyage haute pression
+192FVVZ,107329,Utilisation de monobrosse
+192FVVZ,122126,Utilisation d'équipements mécanisés
+192FVVZ,300147,"Adapter et optimiser sa pratique au contexte et aux risques professionnels (gestes, postures, ergonomie)"
+192FVVZ,300474,"Alerter, demander un appui ou un arbitrage"
+192FVVZ,300440,"Animer, coordonner une équipe"
+192FVVZ,400815,Appliquer les principes du bio-nettoyage
+192FVVZ,126141,Baliser les zones glissantes
+192FVVZ,300313,Contrôler la réalisation et les coûts d'une prestation 
+192FVVZ,116932,Assurer le suivi des stocks en temps réel
+192FVVZ,125971,Définir des besoins en approvisionnement
+192FVVZ,117070,Désinfecter et décontaminer des locaux sensibles
+192FVVZ,119621,Doser des produits d'entretien
+192FVVZ,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192FVVZ,300177,"Entretenir, nettoyer un produit ou du matériel"
+192FVVZ,125246,"Entretenir une surface, un sol"
+192FVVZ,300298,"Evacuer et trier des déchets, des produits"
+192FVVZ,300363,"Identifier, traiter une demande client"
+192FVVZ,107957,Laver des vitres
+192FVVZ,300636,Organiser et planifier une activité
+192FVVZ,300152,Préparer du matériel en prévision d'un travail
+192FVVZ,300451,Relayer de l'information
+192FVVZ,300364,Répondre aux attentes d'un client
+192FVVZ,121159,Sécuriser le périmètre d'intervention
+192FVVZ,400679,Sélectionner les produits et matériels de nettoyage adaptés
+192FVVZ,300153,"Utiliser un outil, une machine, un équipement, une installation"
+192FVVZ,121931,Vérifier la conformité d'une réalisation avec un cahier des charges
+192FVVZ,107327,Vérifier le contenu du chariot de ménage et procéder à la préparation des solutions de nettoyage
+192FTYN,100038,Chiffrage/calcul de coût
+192FTYN,100144,Respect des normes d'hygiène et de sécurité
+192FTYN,300014,"Conseiller, accompagner une personne"
+192FTYN,300313,Contrôler la réalisation et les coûts d'une prestation 
+192FTYN,125430,Développer des stratégies pour améliorer l'efficacité du nettoyage
+192FPPC,100003,Fonctionnement des engins agricoles
+192FPPC,300152,Préparer du matériel en prévision d'un travail
+192DNFZ,115028,"Données d'activité de la structure, du service"
+192DNFZ,100144,Respect des normes d'hygiène et de sécurité
+192DNFZ,300067,"Analyser, exploiter, structurer des données"
+192DNFZ,300487,Piloter une activité
+192DNFZ,110127,"Superviser la planification de l'exploitation du ou des sites logistiques en fonction de l'activité (flux internes/externes, commandes spécifiques, ...)"
+192DNFR,116932,Assurer le suivi des stocks en temps réel
+192DNFR,300313,Contrôler la réalisation et les coûts d'une prestation 
+192DNFR,118772,Établir des rapports de progression des travaux
+192DNFR,122722,Optimiser des modes opératoires
+192DNFR,300175,"Piloter la gestion de la production, de l'exploitation"
+192DNFR,300146,Élaborer des processus et des modes opératoires techniques
+192DNFR,402226,Favoriser un environnement de travail collaboratif
+192CFTT,100865,Utilisation de machines à façonner les clés
+192CFTT,124332,Démonter une pièce de son support
+192CFTT,125338,"Ajuster des chaussures (rehaussement, talonnettes etc.)"
+192CFTT,125532,Réaliser des plaques minéralogiques et d'identification
+192CFTT,125533,Réaliser des reproductions de clés
+192CFTT,101988,Déterminer les réparations ou modifications de l'article
+192CFTT,102912,Réaliser l'étiquetage de produits
+192CFTT,300303,Procéder à l'encaissement
+192CFTT,300361,"Accueillir, orienter, renseigner un public"
+192CFLG,106868,"Localiser la panne ou la défaillance par des contrôles, des tests et des mesures"
+192CFLG,300378,Assurer un service après-vente
+192CFLG,300124,"Comprendre, interpréter des données et documents techniques"
+192CFLG,123625,Contrôler l'état de fonctionnement d'un produit
+192CFLG,300185,Réaliser un diagnostic technique
+192BZBK,124680,Procédures de contrôle qualité
+192BZBK,124842,Contrôler des données qualité
+192BZBK,300258,Contrôler la qualité et la conformité des process
+192BZBK,300245,"Piloter une démarche qualité, un processus d'amélioration continue"
+192BQSG,100596,Techniques de maçonnerie
+192BQSG,102717,Électricité
+192BQSG,103595,Techniques de pose de fermetures
+192BQSG,123243,Fixer des éléments menuisés
+192BQSG,300130,"Relever, contrôler, ajuster des mesures et dosages"
+192BPHZ,102903,Retirer des produits non conformes
+192BPHZ,116932,Assurer le suivi des stocks en temps réel
+192BPHZ,123793,Contrôler l'état de conservation d'un produit périssable
+192BPHZ,300181,"Entretenir un équipement, une machine, une installation"
+192BPHZ,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192BPHZ,300374,Présenter et valoriser un produit ou un service
+192BPHZ,300375,"Organiser, aménager un espace de vente"
+192BPHZ,300504,Renseigner le support de suivi de traçabilité des marchandises
+192BNMP,124935,Dresser des plats pour le service
+192BBBB,100090,Techniques pédagogiques
+192BBBB,108415,Conseiller des apprenants afin de développer leurs capacités artistiques
+192BBBB,300018,"Évaluer des acquis d'apprentissage, de formation ou d'expérience"
+192BBBB,300022,"Enseigner, transmettre des connaissances, développer des compétences"
+191ZWHW,120031,Documents de bord d'un véhicule
+191ZWHW,110527,Contrôler l'état de fonctionnement du véhicule
+191ZWHW,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+191ZWHW,300275,Transporter des passagers
+191ZTQF,124935,Dresser des plats pour le service
+191YZGB,102096,Normes d'hygiène et de propreté
+191YZGB,107920,Effectuer les courses d'une personne
+191YZFT,107908,Accompagner la mise en oeuvre d'un projet socioéducatif et proposer des axes d'adaptation à la personne
+191YZFT,300436,Organiser le travail d'une équipe
+191YZFT,107905,Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne
+191YXQG,121814,Protocoles de soins
+191YXQG,300058,Concevoir des protocoles de soins
+191YXQG,300243,"Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+191YXQG,300449,Expliquer et faire respecter les règles et procédures
+191YXQG,300487,Piloter une activité
+191YXMG,102096,Normes d'hygiène et de propreté
+191YXMG,107920,Effectuer les courses d'une personne
+191YSKX,107908,Accompagner la mise en oeuvre d'un projet socioéducatif et proposer des axes d'adaptation à la personne
+191YSKX,300436,Organiser le travail d'une équipe
+191YSKX,107905,Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne
+191YQBY,121307,Entretenir des canalisations
+191YQBY,123568,Contrôler un réseau ou un équipement d'exploitation
+191YQBY,300178,Réaliser des corrections ou réparations sur un ouvrage
+191YQBY,300250,Analyser la qualité des process
+191YQBY,300408,"Rédiger un rapport, un compte rendu d'activité"
+191YQBY,300449,Expliquer et faire respecter les règles et procédures
+191YQBY,400083,Appliquer la réglementation spécifiant les normes d'assainissement
+191YQBY,400534,Diagnostiquer les travaux de modernisation d'un réseau d'eau potable
+191YKZB,107908,Accompagner la mise en oeuvre d'un projet socioéducatif et proposer des axes d'adaptation à la personne
+191YKZB,107905,Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne
+191YKZB,,"DEME, permis B"
+191WFTJ,107714,Préparer la table d'instrumentation médico-chirurgicale selon le programme opératoire
+191WFTJ,107715,Réaliser des soins infirmiers
+191WFTJ,107703,Renseigner les documents techniques lors d'une intervention chirurgicale et les transmettre à l'interlocuteur concerné
+191WFTJ,107716,Répartir les instruments et les dispositifs médicaux selon le mode de traitement par stérilisation ou par destruction
+191WFKX,300152,Préparer du matériel en prévision d'un travail
+191WFKX,300185,Réaliser un diagnostic technique
+191WFKX,106679,Changer ou réparer une pièce ou un ensemble défectueux
+191WFKX,124812,Définir les interventions sur un équipement selon le dossier technique
+191VXNQ,107099,Remplacer un vitrage inamovible ou amovible
+191VXNQ,107098,"Contrôler la géométrie des châssis, coques, berceaux et redresser les éléments de carrosserie déformés ou les remplacer"
+191VMNR,100129,Code des marchés publics
+191VMNR,100343,Législation sociale
+191VMNR,300440,"Animer, coordonner une équipe"
+191VMNR,300487,Piloter une activité
+191VMHJ,106655,Règles de sécurité routière
+191VMHJ,106656,Risques de circulation sur voie publique
+191VMHJ,120676,Utilisation d'outils de taille
+191VMHJ,122854,Techniques de fauchage
+191VMHJ,106649,Surveiller l'état du tracé routier et de ses équipements et repérer les anomalies et les risques
+191VMHJ,106652,"Informer et assister les usagers du réseau routier en cas de pannes, d'accidents"
+191VMHJ,119210,Effectuer la maintenance de premier niveau des outillages et des équipements
+191VMHJ,121159,Sécuriser le périmètre d'intervention
+191VMHJ,123299,Entretenir un espace urbain
+191VMHJ,300297,"Aménager, entretenir un espace naturel, une forêt"
+191VMHJ,300426,Utiliser les outils numériques
+191VGKD,104167,Caractéristiques des produits d'entretien
+191VGKD,126141,Baliser les zones glissantes
+191VGKD,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191VGKD,300152,Préparer du matériel en prévision d'un travail
+191VGKD,300451,Relayer de l'information
+191TXNY,117205,Accomplir des démarches pour le compte de clients
+191TXNY,124627,Apporter des conseils sur des procédures de résolution de litiges
+191TXNY,300014,"Conseiller, accompagner une personne"
+191TXNY,300338,Appliquer un cadre juridique ou réglementaire
+191TXNY,300410,Communiquer à l'oral en milieu professionnel
+191TXNY,122003,Faire du conseil juridique
+191TXNY,300119,Réaliser une veille documentaire
+191TXNY,123656,Sensibiliser un public à une réglementation
+191TXNY,121260,Traiter des actes de procédure
+191TWCJ,104167,Caractéristiques des produits d'entretien
+191TWCJ,477951,Techniques de nettoyage manuel
+191TWCJ,126141,Baliser les zones glissantes
+191TWCJ,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191TWCJ,300152,Préparer du matériel en prévision d'un travail
+191TWCJ,300451,Relayer de l'information
+191TWCJ,125246,"Entretenir une surface, un sol"
+191TWCJ,400206,Maintenir les équipements en bon état de fonctionnement
+191TWCJ,126471,Respecter un planning de production
+191TVFW,118673,Maintenance préventive/curative de deuxième niveau
+191TVFW,106679,Changer ou réparer une pièce ou un ensemble défectueux
+191TVFW,300180,"Contrôler la conformité d'un équipement, d'une machine, d'une installation"
+191TVFW,300080,"Procéder à des tests, expérimentations"
+191SMDH,103572,Caractéristiques des peintures
+191SMDH,125040,Utilisation de cabine de peinture
+191SMDH,100662,Utilisation de pistolet de projection
+191SMDH,300214,"Appliquer un traitement, un produit"
+191SMDH,106557,"Contrôler la surface (dépôt, aspect, épaisseur), identifier les non-conformités et réaliser les retouches, reprises de finition"
+191SMDH,300216,Manipuler des produits dangereux ou fragiles
+191SMDH,300227,Peindre des surfaces et supports visuels
+191SMDH,106555,"Préparer le produit (quantité, teinte, mélange, ...) et régler l'équipement d'application"
+191SMDH,106553,"Préparer les surfaces (dégraissage, masquage, sablage, ...) selon le type de support"
+191SMDH,402268,"Réaliser la peinture, le vernissage, l'enduit ou la laque de petits objets ou de grandes surfaces"
+191SMDH,106579,Réaliser une opération de dégraissage de surface
+191SMDH,106581,"Réaliser une opération de grenaillage, sablage"
+191SMDH,106582,Réaliser une opération de lustrage de surface
+191SMDH,105962,"Réaliser une opération de ponçage, polissage, lissage"
+191SMDH,106554,"Tracer et réaliser des marquages, masquages (prédécoupés, adhésifs, ...) sur la surface à peindre"
+191SFBP,100003,Fonctionnement des engins agricoles
+191SFBP,300152,Préparer du matériel en prévision d'un travail
+191RYCB,100016,Gestes et postures de manutention
+191RYCB,102405,Techniques de mise en rayon
+191RYCB,117468,Réaliser la mise en rayon
+191RYCB,300374,Présenter et valoriser un produit ou un service
+191RJQN,122700,Assurances
+191RJQN,117240,Rassembler les justificatifs et transmettre la proposition d'assurance pour décision
+191RJQN,121164,Rédiger un contrat d'assurance
+191RJQN,121427,Développer un portefeuille clients et prospects
+191RJQN,300253,Contrôler la conformité des données
+191RFND,124919,"Cuire des viandes, poissons ou légumes"
+191RFND,124935,Dresser des plats pour le service
+191RFND,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191RFND,124947,Éplucher des légumes et des fruits
+191RFND,104207,Préparer les viandes et les poissons
+191QKJK,102096,Normes d'hygiène et de propreté
+191QKJK,107920,Effectuer les courses d'une personne
+191QKJK,300044,Surveiller l'état de santé d'une personne
+191QHGW,300185,Réaliser un diagnostic technique
+191QHGW,300182,"Réparer un équipement, une machine, une installation"
+191LPDB,124935,Dresser des plats pour le service
+191JFSN,107905,Transmettre et expliquer aux personnes les règles sociales et civiques au cours des activités de la vie quotidienne
+191JFSN,107907,Guider ou accompagner une personne dans ses démarches
+191JFSN,107908,Accompagner la mise en oeuvre d'un projet socioéducatif et proposer des axes d'adaptation à la personne
+191JFSN,300436,Organiser le travail d'une équipe
+191HPDL,103927,Adapter un parcours ou une séquence pédagogique selon le niveau et la progression des apprenants
+191HPDL,103926,Évaluer le niveau de départ du pratiquant
+191HPDL,103928,Présenter l'exercice aux pratiquants et apporter un appui technique
+191HPDL,103929,Réaliser le suivi du matériel ou des équipements sportifs
+191GGJV,107926,Techniques d'écoute active
+191GGJV,116932,Assurer le suivi des stocks en temps réel
+191GGJV,102048,Concevoir des protocoles de soins esthétiques
+191GGJV,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191GGJV,300431,"Mettre à jour un dossier, une base de données"
+191GGJV,300280,Organiser le traitement des commandes
+191GGJV,300542,Présenter et expliquer des techniques d'esthétique et de maquillage
+191GGJV,300374,Présenter et valoriser un produit ou un service
+191GGJV,300303,Procéder à l'encaissement
+191GGJV,300043,Prodiguer des soins corporels et esthétiques
+191GGJV,102050,Réaliser des soins du visage et du corps
+191GGJV,122351,Vendre une prestation ou un produit
+191FPZY,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191FPZY,400429,Manipuler des équipements de cuisine
+191FMJG,117920,Cuisine indienne
+191FMJG,104207,Préparer les viandes et les poissons
+191FMJG,115131,Préparer des repas
+191FMJG,124919,"Cuire des viandes, poissons ou légumes"
+191FMJG,124933,Doser des ingrédients culinaires
+191FMJG,124947,Éplucher des légumes et des fruits
+191FMJG,,cuisine indienne
+191FDQL,300374,Présenter et valoriser un produit ou un service
+191FDQL,300375,"Organiser, aménager un espace de vente"
+191FDQL,116932,Assurer le suivi des stocks en temps réel
+191FDQL,300280,Organiser le traitement des commandes
+191FCTS,124680,Procédures de contrôle qualité
+191FCTS,300245,"Piloter une démarche qualité, un processus d'amélioration continue"
+191FCTS,300258,Contrôler la qualité et la conformité des process
+191FCTS,124842,Contrôler des données qualité
+191DYCX,120031,Documents de bord d'un véhicule
+191DYCX,110527,Contrôler l'état de fonctionnement du véhicule
+191DYCX,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+191DYCX,300275,Transporter des passagers
+191DYBX,120031,Documents de bord d'un véhicule
+191DYBX,110527,Contrôler l'état de fonctionnement du véhicule
+191DYBX,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+191DYBX,300275,Transporter des passagers
+191DXZN,120031,Documents de bord d'un véhicule
+191DXZN,110527,Contrôler l'état de fonctionnement du véhicule
+191DXZN,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+191DXZN,300275,Transporter des passagers
+191DXYS,120031,Documents de bord d'un véhicule
+191DXYS,110527,Contrôler l'état de fonctionnement du véhicule
+191DXYS,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+191DXYS,300275,Transporter des passagers
+191DXXY,120031,Documents de bord d'un véhicule
+191DXXY,120373,Agir rapidement en cas d'accident ou d'imprévu
+191DXXY,110527,Contrôler l'état de fonctionnement du véhicule
+191DXXY,110523,"Préparer le véhicule, repérer le parcours et prévoir les aléas"
+191DXXY,300275,Transporter des passagers
+191CKLW,102096,Normes d'hygiène et de propreté
+191CKLW,107920,Effectuer les courses d'une personne
+191CKLW,300044,Surveiller l'état de santé d'une personne
+190ZSDV,101449,Réglementation sécurité incendie
+190ZSDV,106659,"Diagnostiquer une panne sur une installation (éclairage, chauffage, sanitaires)"
+190ZSDV,106662,"Entretenir l'installation sanitaire, de chauffage et de production d'eau chaude"
+190ZSDV,106661,"Réparer ou remplacer les poignées, vitres, rails, ... de portes, fenêtres, ..."
+190ZSDV,119210,Effectuer la maintenance de premier niveau des outillages et des équipements
+190ZPHJ,103592,"Réaliser l'étanchéité de l'ensemble support/châssis et poser les mousses de polyuréthane, joints, bandes adhésives, cornières, ..."
+190ZPHJ,121168,Couper les éléments de fermetures menuisées
+190ZPHJ,123243,Fixer des éléments menuisés
+190ZPHJ,124331,Démonter une fermeture menuisée et vérifier l'état du support
+190ZPDK,104751,Sélectionner le matériel de contrôle ou d'essais et vérifier sa conformité
+190ZPDK,123814,Contrôler l'état de fonctionnement d'un appareil
+190ZPDK,124978,Simuler les fonctionnalités d'un appareil
+190ZPDK,300451,Relayer de l'information
+190ZPDK,121618,Développer des stratégies de tests adaptatives
+190ZNVS,118639,"Analyser les données d'une étude, d'un projet"
+190ZNVS,300366,Recueillir et analyser les besoins client
+190ZNVS,300488,Concevoir et gérer un projet
+190ZFQS,124629,Entretenir un outil ou matériel
+190ZFQS,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+190ZFQS,300487,Piloter une activité
+190ZFQS,300656,"Réaliser les opérations funéraires pour l'inhumation, la crémation ou l'exhumation"
+190ZFQS,108858,Réceptionner le cercueil et les articles funéraires et organiser le transfert
+190YTNK,101910,Techniques de coupes de cheveux
+190YTNK,101903,"Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing"
+190YTNK,101918,Réaliser une coupe ou une coiffure
+190YTNK,101901,Accueillir le client et l'installer
+190YTNK,101902,Identifier la coiffure attendue et conseiller le client 
+190YTBT,101910,Techniques de coupes de cheveux
+190YTBT,101903,"Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing"
+190YTBT,101918,Réaliser une coupe ou une coiffure
+190YTBT,101901,Accueillir le client et l'installer
+190YTBT,101902,Identifier la coiffure attendue et conseiller le client 
+190VJSB,100090,Techniques pédagogiques
+190VJSB,108415,Conseiller des apprenants afin de développer leurs capacités artistiques
+190VJSB,300022,"Enseigner, transmettre des connaissances, développer des compétences"
+190QRTQ,109420,Superviser la gestion financière
+190QRTQ,300323,"Élaborer, suivre et piloter un budget"
+190QRTQ,124029,Présenter un budget
+190QNXV,300067,"Analyser, exploiter, structurer des données"
+190QNXV,300440,"Animer, coordonner une équipe"
+190QNXV,300009,Concevoir et piloter une politique de gestion des ressources humaines
+190QNXV,300337,Définir la stratégie financière d'une structure
+190QNXV,300391,Élaborer une stratégie de développement d'activité
+190MHBW,102096,Normes d'hygiène et de propreté
+190MHBW,107920,Effectuer les courses d'une personne
+190MHBW,300044,Surveiller l'état de santé d'une personne
+190HBNY,116932,Assurer le suivi des stocks en temps réel
+190HBNY,300375,"Organiser, aménager un espace de vente"
+190HBNY,300280,Organiser le traitement des commandes
+190HBNY,300374,Présenter et valoriser un produit ou un service
+189XMXP,400288,"Déblayer, remblayer un terrain"
+189XMXP,121977,Terrasser un terrain ou une construction
+189XMXP,300265,"Charger, décharger, manutentionner des produits"
+189QVVJ,100038,Chiffrage/calcul de coût
+189QVVJ,113245,Normes qualité
+189QVVJ,118500,Élaborer des propositions techniques
+189QVVJ,119161,Identifier les contraintes d'un projet
+189QVVJ,124529,Déterminer des axes d'évolution technologiques
+189QVVJ,300337,Définir la stratégie financière d'une structure
+189QVVJ,300488,Concevoir et gérer un projet
+189PJKS,121814,Protocoles de soins
+189CQBB,104415,Automatisme
+189CQBB,124810,Documentation technique et rapports de maintenance
+189CQBB,106696,"Réparer l'installation par le remplacement et la remise en état des dispositifs électriques, électroniques, mécaniques, pneumatiques, hydrauliques"
+192XCJN,105456,Identifier des non-conformités
+192XCJN,104854,"Surveiller l'approvisionnement des machines, des installations et le flux des matières ou des produits"
+192XCJN,117646,Surveiller l'assemblage de pièces
+192XCJN,106186,"Vérifier le montage/assemblage (aspect, parallélisme, jeu, maintien, fonctionnement, ...) et procéder aux ajustements, retouches"
+192XCJN,106184,"Vérifier, positionner et fixer les pièces et les éléments de l'assemblage (bâtis, grappes, gabarits, structures, ...)"
+192VYVC,110527,Contrôler l'état de fonctionnement du véhicule
+192VYVC,485797,Appliquer les procédures en cas d'accident ou de panne
+192VYVC,483364,Communiquer efficacement avec la centrale et les clients
+192VYVC,110024,Conduire un poids lourd
+192VYVC,483361,Maintenir la propreté du véhicule
+192VYVC,300408,"Rédiger un rapport, un compte rendu d'activité"
+192VYVC,400661,Respecter le code de la route
+192VYVC,484698,Utiliser des équipements de navigation (GPS)
+192VGWL,300146,Élaborer des processus et des modes opératoires techniques
+192VGWL,300428,Utiliser des logiciels spécifiques
+192THWT,125029,Confectionner des pâtisseries
+192THWT,126357,Confectionner des viennoiseries
+192RYDZ,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192RYDZ,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+192RYDZ,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+192RMMR,480277,Planification des visites clients
+192RMMR,480276,Présentation de produits techniques
+192RMMR,122552,Prospection commerciale
+192RMMR,403511,"Conduire les éventuelles négociations commerciales : prix, délais, promotions et conclure la vente (bons de commande, contrats de vente…)"
+192RMMR,117243,Établir un devis
+192RMMR,102318,"Établir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)"
+192RMMR,120722,Gérer les agendas et planifier des rendez-vous
+192RMMR,403287,"Suivre, animer et développer son portefeuille clients dans le périmètre attitré (géographique, sectoriel…)"
+192RHSJ,101738,"Caractéristiques des farines levure, additifs"
+192RHSJ,115131,Préparer des repas
+192RHSJ,124933,Doser des ingrédients culinaires
+192RHSJ,126105,Effectuer le montage et la décoration des produits pâtissiers
+192RHSJ,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192QKXM,101718,Techniques de désossage
+192QKXM,101719,Techniques de parage des viandes
+192QKXM,118018,"Découper, désosser, parer de la viande"
+192PMCW,107814,Analyser le contexte de vie d'une personne
+192PMCW,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+192PMCW,300041,Réaliser un accompagnement psychologique
+192PMCL,107814,Analyser le contexte de vie d'une personne
+192PMCL,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+192PMCL,300041,Réaliser un accompagnement psychologique
+192PKBF,300488,Concevoir et gérer un projet
+192PKBF,109797,Définir la stratégie des systèmes d'informations
+192PKBF,300197,"Élaborer un schéma directeur technique, définir des besoins en équipement"
+192PKBF,109800,"Procéder au choix de réalisation, de traitement en interne ou par sous-traitance et en contrôler la conformité de réalisation"
+192PJHX,121417,Méthodes de plan de prospection
+192PJHX,300014,"Conseiller, accompagner une personne"
+192PJHX,120526,Mettre en place des actions de prospection
+192PJHX,300374,Présenter et valoriser un produit ou un service
+192PJHX,300366,Recueillir et analyser les besoins client
+192PDKV,117629,Modalités d'approvisionnement d'une ligne de production
+192PDKV,100017,Règles de sécurité
+192PDKV,300174,"Élaborer et planifier un programme de production, d'exploitation"
+192PDKV,300261,Organiser et contrôler un approvisionnement
+192NCMN,100359,Règles d'hygiène et de sécurité alimentaire
+192NCMN,101718,Techniques de désossage
+192NCMN,101719,Techniques de parage des viandes
+192NCMN,101782,Modes de cuisson des aliments
+192NCMN,101848,Types de produits de charcuterie
+192NCMN,119438,Types de viande
+192NCMN,119441,Types de spécialités bouchères
+192NCMN,119442,Types de produits de rôtisserie
+192NCMN,119444,Types de produits tripiers
+192NCMN,119525,"Techniques de transformation des denrées alimentaires (viande, poisson, fruit, etc.)"
+192NCMN,122410,Modalités de stockage de produits alimentaires
+192NCMN,104324,Prendre une commande client
+192NCMN,118018,"Découper, désosser, parer de la viande"
+192NCMN,300090,Préparer des plats culinaires
+192NCMN,300181,"Entretenir un équipement, une machine, une installation"
+192NCMN,300268,Conditionner des produits
+192NCMN,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192NCMN,300375,"Organiser, aménager un espace de vente"
+192MWCX,103515,Réaliser les saignées et les creusements divers
+192MWCX,113669,Réaliser un diagnostic de panne ou de dysfonctionnement d'installation
+192MWCX,114354,Relier des appareils au tableau électrique
+192MWCX,121605,Poser des tuyauteries
+192MWCX,122213,Installer des équipements de chauffage
+192MWCX,122970,Poser des éléments sanitaires
+192MWCX,123695,Réaliser des travaux de raccordement aux appareils de chauffage et éléments sanitaires
+192MWCX,124184,Réaliser une intervention nécessitant une habilitation
+192MWCX,300156,"Démonter un équipement, une installation"
+192MMLT,118639,"Analyser les données d'une étude, d'un projet"
+192MMLT,300488,Concevoir et gérer un projet
+192MMLT,300366,Recueillir et analyser les besoins client
+192MBJG,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192MBJG,107663,Distribuer les repas et collations au patient/résident selon les besoins ou la prescription médicale
+192MBJG,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+192MBJG,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+192LXSK,107814,Analyser le contexte de vie d'une personne
+192LXSK,300338,Appliquer un cadre juridique ou réglementaire
+192LXSK,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+192LXSK,300041,Réaliser un accompagnement psychologique
+192LSYP,101718,Techniques de désossage
+192LSYP,101719,Techniques de parage des viandes
+192LSYP,118018,"Découper, désosser, parer de la viande"
+192LPZS,101738,"Caractéristiques des farines levure, additifs"
+192LPZS,124933,Doser des ingrédients culinaires
+192LPZS,126105,Effectuer le montage et la décoration des produits pâtissiers
+192LPZS,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+192KNJX,121417,Méthodes de plan de prospection
+192KNJX,300014,"Conseiller, accompagner une personne"
+192KNJX,120526,Mettre en place des actions de prospection
+192KNJX,300374,Présenter et valoriser un produit ou un service
+192KNJX,300366,Recueillir et analyser les besoins client
+192KNGR,121417,Méthodes de plan de prospection
+192KNGR,300014,"Conseiller, accompagner une personne"
+192KNGR,120526,Mettre en place des actions de prospection
+192KNGR,300374,Présenter et valoriser un produit ou un service
+192KNGR,300366,Recueillir et analyser les besoins client
+192KNBT,121417,Méthodes de plan de prospection
+192KNBT,300014,"Conseiller, accompagner une personne"
+192KNBT,120526,Mettre en place des actions de prospection
+192KNBT,300374,Présenter et valoriser un produit ou un service
+192KNBT,300366,Recueillir et analyser les besoins client
+192KMZG,121417,Méthodes de plan de prospection
+192KMZG,300014,"Conseiller, accompagner une personne"
+192KMZG,120526,Mettre en place des actions de prospection
+192KMZG,300374,Présenter et valoriser un produit ou un service
+192KMZG,300366,Recueillir et analyser les besoins client
+192KMXM,121417,Méthodes de plan de prospection
+192KMXM,300014,"Conseiller, accompagner une personne"
+192KMXM,120526,Mettre en place des actions de prospection
+192KMXM,300374,Présenter et valoriser un produit ou un service
+192KMXM,300366,Recueillir et analyser les besoins client
+192JPJM,120886,Logiciels comptables
+192JPJM,117139,Codifier une facture
+192JPJM,117140,Codifier un mandat
+192JPJM,117141,Codifier un titre
+192JPJM,300305,"Effectuer le suivi des commandes, la facturation"
+192JNDK,104253,Techniques de tournage de pâte à crêpe
+192JNDK,124951,Réaliser une garniture alimentaire
+192JNDK,124952,Cuire une pizza au four
+192JNDK,124950,Former une pâte à pizza
+192HXPK,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192HXPK,107663,Distribuer les repas et collations au patient/résident selon les besoins ou la prescription médicale
+192HXPK,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+192DNFX,121657,Négocier des solutions techniques ou financières avec un client
+192DNFX,300366,Recueillir et analyser les besoins client
+192DNFX,300415,"Convaincre, négocier"
+192DNFX,116860,Optimiser des techniques analytiques de production industrielles
+192DFTW,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+192DFTW,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+192DFTW,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192DFMM,107814,Analyser le contexte de vie d'une personne
+192DFMM,300041,Réaliser un accompagnement psychologique
+192DFMM,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+192DFMM,300338,Appliquer un cadre juridique ou réglementaire
+192DFJC,107814,Analyser le contexte de vie d'une personne
+192DFJC,300041,Réaliser un accompagnement psychologique
+192DFJC,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+192DFJC,300338,Appliquer un cadre juridique ou réglementaire
+192DFBC,107814,Analyser le contexte de vie d'une personne
+192DFBC,300041,Réaliser un accompagnement psychologique
+192DFBC,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+192DFBC,300338,Appliquer un cadre juridique ou réglementaire
+192CYVP,300469,"Préparer et animer une réunion, un groupe de travail, un atelier"
+192CYVP,300041,Réaliser un accompagnement psychologique
+192CYVP,,Connaissance la psychologie du travail
+192CYVP,,Connaissance de la clinique du vieillissement
+192CYQW,107814,Analyser le contexte de vie d'une personne
+192CYQW,300338,Appliquer un cadre juridique ou réglementaire
+192CYQW,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+192CYQW,300041,Réaliser un accompagnement psychologique
+192BTJX,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192BTJX,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+192BTJX,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YZCR,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YZCR,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191YZCR,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YXKG,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YXKG,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191YXKG,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YWZX,107814,Analyser le contexte de vie d'une personne
+191YWZX,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+191YWZX,300041,Réaliser un accompagnement psychologique
+191YVCQ,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YVCQ,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191YVCQ,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YSDM,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YSDM,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191YSDM,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YSBD,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YSBD,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191YSBD,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YRXR,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YRXR,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191YRXR,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YQMS,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YQMS,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191YQMS,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191YNZF,100906,Principes de l'ergonomie au travail
+191YNZF,107920,Effectuer les courses d'une personne
+191YNZF,300044,Surveiller l'état de santé d'une personne
+191YLBW,107201,Actualiser le dossier médical du patient
+191YLBW,107198,Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+191YLBW,107199,"Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie"
+191YLBW,107197,"Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique"
+191YLBW,300125,"Renseigner, mettre à jour une documentation technique"
+191YKKL,107201,Actualiser le dossier médical du patient
+191YKKL,107198,Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+191YKKL,107199,"Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie"
+191YKKL,107197,"Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique"
+191YCFW,101738,"Caractéristiques des farines levure, additifs"
+191YCFW,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191YCFW,124933,Doser des ingrédients culinaires
+191YCFW,126105,Effectuer le montage et la décoration des produits pâtissiers
+191XVKB,121417,Méthodes de plan de prospection
+191XVKB,300014,"Conseiller, accompagner une personne"
+191XVKB,300377,"Élaborer, adapter une proposition commerciale"
+191XVKB,300384,Élaborer une stratégie commerciale
+191XVKB,102318,"Établir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)"
+191VTWW,107814,Analyser le contexte de vie d'une personne
+191VTWW,300338,Appliquer un cadre juridique ou réglementaire
+191VTWW,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+191VTWW,300041,Réaliser un accompagnement psychologique
+191VKCT,100634,Techniques de peinture artistique
+191VKCT,404098,CAP peintre applicateur de revêtements
+191VKCT,404094,CAP Peintre en bâtiment
+191VKCT,400409,Monter ou démonter un échafaudage
+191VKCT,103566,Préparer la peinture
+191TSRS,107814,Analyser le contexte de vie d'une personne
+191TSRS,300041,Réaliser un accompagnement psychologique
+191TSRS,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+191TSRS,300338,Appliquer un cadre juridique ou réglementaire
+191TSDH,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191TSDH,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191TSDH,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191SJWQ,102096,Normes d'hygiène et de propreté
+191SJWQ,481891,Techniques de nettoyage et d'entretien
+191SJWQ,477812,Techniques de rangement efficace
+191SJWQ,107948,"Dépoussiérer les sols, les tapis, les meubles, les objets et aérer, désodoriser les pièces"
+191SJWQ,104160,"Changer les draps, refaire le lit (mise à blanc, recouche) et remplacer le linge de toilette"
+191SJWQ,120699,Entretenir le linge
+191SJWQ,489930,Entretenir les espaces de vie et le linge de la personne accompagnée
+191SJWQ,125246,"Entretenir une surface, un sol"
+191SJWQ,107957,Laver des vitres
+191SJWQ,483215,Veiller à la propreté et à l'ordre dans les espaces de vie
+191RWGD,101716,Chaîne du froid
+191RWGD,100359,Règles d'hygiène et de sécurité alimentaire
+191RWGD,126105,Effectuer le montage et la décoration des produits pâtissiers
+191RWGD,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191RWGD,300268,Conditionner des produits
+191RWGD,125971,Définir des besoins en approvisionnement
+191RWGD,126104,Planifier les opérations de production selon les commandes
+191RWGD,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+191RJLY,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191RJLY,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191RJLY,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191RFPC,101901,Accueillir le client et l'installer
+191RFPC,483667,Assurer une communication claire et efficace avec l'équipe
+191RFPC,300556,Conseiller le client dans ses choix de boissons ou plats selon ses goûts
+191RFPC,117933,Effectuer le service des plats à table
+191RFPC,403015,Garantir la satisfaction du client
+191RFPC,117171,Gérer les retours des clients pour améliorer les services
+191RFPC,300411,Parler une ou plusieurs langues étrangères
+191RFPC,104324,Prendre une commande client
+191RFPC,400722,Proposer des produits additionnels
+191RFPC,117932,Réaliser la mise en place de la salle et de l'office
+191RFPC,403892,S'exprimer avec politesse et courtoisie
+191RFNP,403326,Assurer la propreté de la zone de travail
+191RFNP,124919,"Cuire des viandes, poissons ou légumes"
+191RFNP,124935,Dresser des plats pour le service
+191RFNP,122877,Entretenir des équipements de cuisine professionnelle
+191RFNP,124947,Éplucher des légumes et des fruits
+191RFNP,300449,Expliquer et faire respecter les règles et procédures
+191RFNP,402226,Favoriser un environnement de travail collaboratif
+191RFNP,403497,Gérer l'approvisionnement des matières premières nécessaires en cuisine afin d'éviter les excédents ou la rupture de stock
+191RFNP,485917,Gérer les urgences et les imprévus en cuisine
+191RFNP,483178,Gérer le timing de préparation pour un service efficace
+191RFNP,403537,"Goûter les préparations culinaires, ajuster leur assaisonnement et prêter attention à l'esthétique des plats avant de les servir"
+191RFNP,403543,"Organiser le stockage des denrées, en les triant par dates de péremption par exemple"
+191RFNP,104207,Préparer les viandes et les poissons
+191QKJC,124739,Identifier les composants et les pièces défectueuses
+191QKJC,123770,Réaliser le montage d'équipements industriels ou d'exploitation
+191QKJC,106714,Réaliser les réglages de mise au point de l'équipement industriel ou d'exploitation et contrôler son fonctionnement
+191QKJC,300182,"Réparer un équipement, une machine, une installation"
+191QHHW,105980,"Assembler et positionner les pièces, plaques, tubes (soudure-pointage, rivet, agrafe, colle, ...)"
+191QHHW,105981,Contrôler la qualité de l'assemblage des pièces mécaniques
+191QHHW,300230,"Découper, tailler des matières premières"
+191QHHW,105978,"Tracer les développés et reporter les cotes sur les matériaux (plaques, tubes, profilés, ...)"
+191QFNG,119982,Caractéristiques des véhicules de transport de marchandises
+191QFNG,100016,Gestes et postures de manutention
+191QFNG,121002,Entretien de véhicules
+191QFNG,110034,Sécurité des opérations de chargement et déchargement
+191QFNG,110527,Contrôler l'état de fonctionnement du véhicule
+191QFNG,124795,Organiser des itinéraires de livraison optimisés
+191QFNG,110473,Optimiser un plan de chargement des marchandises
+191QFNG,110024,Conduire un poids lourd
+191QFNG,110504,Transporter des matériaux
+191KKZP,403981,CAP boucher
+191KKZP,121945,Caractéristiques des carcasses de viande
+191KKZP,101716,Chaîne du froid
+191KKZP,121950,Machine de découpe de viande
+191KKZP,477779,Techniques de découpe de viande
+191KKZP,101718,Techniques de désossage
+191KKZP,101715,Techniques de ficelage des viandes
+191KKZP,101719,Techniques de parage des viandes
+191KKZP,104174,"Accueillir, orienter et renseigner un client"
+191KKZP,482398,Assurer la propreté et l'ordre dans l'espace de travail
+191KKZP,485489,Conseiller les clients sur les types de viandes
+191KKZP,118018,"Découper, désosser, parer de la viande"
+191KKZP,121948,Identifier les types et morceaux de viande
+191KKZP,104324,Prendre une commande client
+191KKZP,485490,Préparer des produits bouchers selon les commandes
+191KKZP,121771,Promouvoir les produits auprès des clients
+191KKZP,300263,"Réceptionner des produits, des matières premières, vérifier la conformité d'une livraison"
+191KKZP,402094,Veiller au respect des normes d'hygiène
+191KKZP,106394,Vérifier et maintenir l'état de propreté des équipements
+191JWCR,104207,Préparer les viandes et les poissons
+191JWCR,124919,"Cuire des viandes, poissons ou légumes"
+191JWCR,124935,Dresser des plats pour le service
+191JTHV,101901,Accueillir le client et l'installer
+191JTHV,300556,Conseiller le client dans ses choix de boissons ou plats selon ses goûts
+191JTHV,104324,Prendre une commande client
+191JTHV,117933,Effectuer le service des plats à table
+191JTHV,117932,Réaliser la mise en place de la salle et de l'office
+191JSYK,104207,Préparer les viandes et les poissons
+191JSYK,115131,Préparer des repas
+191JSYK,124919,"Cuire des viandes, poissons ou légumes"
+191JSYK,124933,Doser des ingrédients culinaires
+191JSYK,124935,Dresser des plats pour le service
+191JSYK,,Réaliser une remise en température des repas
+191JSYK,,Normes HACCP
+191JSYK,,Plonge
+191JHBK,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191JHBK,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191JHBK,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191JGRQ,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+191JGRQ,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+191JGRQ,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191FSRH,104207,Préparer les viandes et les poissons
+191FSRH,115131,Préparer des repas
+191FSRH,124919,"Cuire des viandes, poissons ou légumes"
+191FSRH,124933,Doser des ingrédients culinaires
+191FSRH,124935,Dresser des plats pour le service
+191FSRH,,Réaliser une remise en température des repas
+191FSRH,,Normes HACCP
+191FSRH,,Plonge
+191DXJS,121417,Méthodes de plan de prospection
+191DXJS,300014,"Conseiller, accompagner une personne"
+191DXJS,120526,Mettre en place des actions de prospection
+191DXJS,300374,Présenter et valoriser un produit ou un service
+191DXJS,300366,Recueillir et analyser les besoins client
+191CRDS,124935,Dresser des plats pour le service
+191CRDS,124947,Éplucher des légumes et des fruits
+191CRDS,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191BWLL,107920,Effectuer les courses d'une personne
+191BWLL,300044,Surveiller l'état de santé d'une personne
+190RKXN,118788,Planifier des opérations de chantier
+190LXFB,101901,Accueillir le client et l'installer
+190LXFB,124963,Réaliser un service en salle
+190LVHX,404157,Diplôme d'Etat d'Aide-Soignant
+190LVHX,107662,Accompagner les patients dans les gestes de la vie quotidienne
+190LVHX,107663,Distribuer les repas et collations au patient/résident selon les besoins ou la prescription médicale
+190LVHX,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+190LVHX,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+190LVHX,489903,"Agir dans une situation d'urgence, sécuriser le patient et alerter le personnel médical"
+190LVHX,489904,Etre en capacité de mettre en pratique les enseignements théoriques en matière de risques professionnels
+190LVHX,482292,Gérer les situations de stress chez les patients
+190LVHX,102049,Réaliser des soins mortuaires
+190LVHX,107740,"Réaliser ou contrôler les soins d'hygiène, de confort et apporter une aide au patient"
+190LVHX,489951,Renseigner les soins réalisés dans le dossier médical du patient ou de la personne accompagnée
+190LVHX,300448,"Respecter des règles, des consignes, normes et procédures opérationnelles"
+190LVHX,300446,"Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+190LVHX,300447,Respecter les règles d'éthique et de déontologie
+190LVHX,300044,Surveiller l'état de santé d'une personne
+190LVHX,489946,Utiliser le matériel médical adapté
+190LDSB,100822,Techniques d'usinage
+190LDSB,300256,Contrôler la qualité et la conformité d'un livrable
+190LDSB,300135,"Monter et régler une installation, une machine"
+190LDSB,300185,Réaliser un diagnostic technique
+190GCQQ,118639,"Analyser les données d'une étude, d'un projet"
+190GCQQ,300488,Concevoir et gérer un projet
+190GCQQ,300366,Recueillir et analyser les besoins client
+189XNPQ,101718,Techniques de désossage
+189XNPQ,101719,Techniques de parage des viandes
+189XNPQ,118018,"Découper, désosser, parer de la viande"
+189RPCR,110024,Conduire un poids lourd
+189RPCR,110474,Vérifier l'exactitude et la conformité de documents de transport de marchandises
+189RPCR,110504,Transporter des matériaux
+189RPCR,110527,Contrôler l'état de fonctionnement du véhicule
+189RPCR,120413,Transporter des produits en vrac
+189RCBD,107814,Analyser le contexte de vie d'une personne
+189RCBD,300338,Appliquer un cadre juridique ou réglementaire
+189RCBD,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+189RCBD,300041,Réaliser un accompagnement psychologique
+189LWYK,117243,Établir un devis
+189LWYK,102318,"Établir un plan de tournée de prospection (ciblage, interlocuteurs, préparation de dossiers techniques)"
+188ZFVB,104207,Préparer les viandes et les poissons
+188ZFVB,124919,"Cuire des viandes, poissons ou légumes"
+188ZFVB,124935,Dresser des plats pour le service
+192WKVW,107201,Actualiser le dossier médical du patient
+192WKVW,107198,Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+192WKVW,107199,"Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie"
+192WKVW,107197,"Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique"
+192WKVW,300125,"Renseigner, mettre à jour une documentation technique"
+192VQZY,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+192VQZY,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+192VQZY,107531,"Déterminer le besoin de rééducation orthophonique à partir de tests ou conseiller le patient sur un suivi complémentaire (soutien scolaire, accompagnement psychologique, ...)"
+192VQZY,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+192VQZY,124221,Renseigner des documents médico-administratifs
+192VQTV,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+192VQTV,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+192VQTV,107531,"Déterminer le besoin de rééducation orthophonique à partir de tests ou conseiller le patient sur un suivi complémentaire (soutien scolaire, accompagnement psychologique, ...)"
+192VQTV,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+192VQTV,124221,Renseigner des documents médico-administratifs
+192VQFL,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+192VQFL,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+192VQFL,107531,"Déterminer le besoin de rééducation orthophonique à partir de tests ou conseiller le patient sur un suivi complémentaire (soutien scolaire, accompagnement psychologique, ...)"
+192VQFL,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+192VQFL,124221,Renseigner des documents médico-administratifs
+192SDQX,121482,Appliquer les mortiers
+192SDQX,400081,Assembler et positionner les éléments d'armatures et les caissons pour le béton
+192SDQX,122952,Monter les murs en utilisant les matériaux adaptés
+192SDQX,123667,Réaliser des enduits
+192SDQX,103767,Terrasser et niveler la fondation
+192PTPW,105933,"Identifier les phases d'ajustage et de montage d'éléments, systèmes, ensembles mécaniques à partir du dossier technique ou du modèle"
+192PTPW,300140,"Adapter, ajuster un article ou une production en fonction du besoin"
+192PTPW,105935,"Dimensionner et mettre en forme les pièces, éléments mécaniques par usinage, formage, ... et vérifier leur conformité"
+192PTPW,105936,Réaliser les ajustements et les finitions et assembler les éléments et les sous-ensembles mécaniques
+192PTPW,105937,"Effectuer le métrage et la mise au point de systèmes, équipements mécaniques et outils de production (moule, outillage...)"
+192MBHJ,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192MBHJ,107660,"Mesurer les paramètres vitaux du patient/résident, contrôler les dispositifs et appareillages médicaux et transmettre les informations à l'infirmier"
+192MBHJ,107661,"Réaliser des soins d'hygiène corporelle, de confort et de prévention"
+192HXNH,107756,Gestion des soins de fin de vie
+192HXNH,107674,Pathologies du vieillissement
+192HXNH,107715,Réaliser des soins infirmiers
+192GYZR,121777,Fixer des éléments basse tension
+192GYZR,123597,Positionner une armoire électrique de locaux domestiques ou tertiaires
+192GYZR,121778,Raccorder des éléments basse tension
+192GYZR,123598,Raccorder une armoire électrique aux équipements de locaux domestiques ou tertiaires
+192GYZR,103495,Réaliser et poser des chemins de câbles et des conduits électriques en apparent ou en encastré
+192CLRT,107715,Réaliser des soins infirmiers
+192BQZK,107662,Accompagner les patients dans les gestes de la vie quotidienne
+192BQZK,107715,Réaliser des soins infirmiers
+192BHRX,107474,Concevoir un projet thérapeutique
+192BHRX,107644,"Procéder aux tests psychomoteurs et analyser les informations recueillies lors de l'évaluation (manifestations cliniques, motivation, ...)"
+192BHRX,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+192BHRX,124221,Renseigner des documents médico-administratifs
+192BFCV,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+192BFCV,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+192BFCV,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+192BFCV,107531,"Déterminer le besoin de rééducation orthophonique à partir de tests ou conseiller le patient sur un suivi complémentaire (soutien scolaire, accompagnement psychologique, ...)"
+192BFCV,124221,Renseigner des documents médico-administratifs
+192BDTG,107715,Réaliser des soins infirmiers
+191ZCMB,479035,Caractéristiques des plantes et végétaux
+191ZCMB,140912,Techniques de maçonnerie paysagère
+191ZCMB,122739,Techniques d'engazonnement
+191ZCMB,100032,Techniques de taille de végétaux
+191ZCMB,106963,Utilisation d'outillage mécanique
+191ZCMB,120676,Utilisation d'outils de taille
+191ZCMB,300292,"Aménager, entretenir un espace vert"
+191ZCMB,486117,Collaborer avec des équipes pour des projets d'aménagement
+191ZCMB,402102,Coordonner l'activité d'une équipe
+191ZCMB,122781,Installer un système d'éclairage
+191ZCMB,122843,"Planter un arbre, une plante, un végétal"
+191ZCMB,122730,"Préparer les sols, les plantations (épandage, semis, etc.)"
+191ZCMB,140913,"Réaliser des ouvrages de maçonnerie paysagère (dallages, pavages, murets, escaliers, ...)"
+191ZCMB,100063,Tailler les arbres
+191ZCMB,300021,"Transmettre une technique, un savoir-faire"
+191ZCKL,123463,Entretien des espaces verts
+191ZCKL,477767,Gestion des déchets verts
+191ZCKL,122739,Techniques d'engazonnement
+191ZCKL,100064,Utilisation d'engins de tonte (autotracté/autoporté)
+191ZCKL,120676,Utilisation d'outils de taille
+191ZCKL,119618,Apporter un appui technique aux équipes de chantier
+191ZCKL,402102,Coordonner l'activité d'une équipe
+191ZCKL,122843,"Planter un arbre, une plante, un végétal"
+191ZCKL,122730,"Préparer les sols, les plantations (épandage, semis, etc.)"
+191ZCKL,483368,Superviser le nettoyage et la maintenance des équipements
+191ZCKL,121876,Surveiller le respect des normes de sécurité
+191ZCKL,100063,Tailler les arbres
+191ZCKL,300021,"Transmettre une technique, un savoir-faire"
+191YZHK,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YZHK,107715,Réaliser des soins infirmiers
+191YYZP,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YYZP,107715,Réaliser des soins infirmiers
+191YYRS,102096,Normes d'hygiène et de propreté
+191YYRS,107948,"Dépoussiérer les sols, les tapis, les meubles, les objets et aérer, désodoriser les pièces"
+191YYRS,107920,Effectuer les courses d'une personne
+191YYRS,300551,Entretenir le linge de maison et les vêtements
+191YXLJ,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YXLJ,107715,Réaliser des soins infirmiers
+191YVJC,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YVJC,107715,Réaliser des soins infirmiers
+191YTWD,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YTWD,107715,Réaliser des soins infirmiers
+191YTNB,107201,Actualiser le dossier médical du patient
+191YTNB,107198,Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+191YTNB,107199,"Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie"
+191YTNB,107197,"Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique"
+191YTKF,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YTKF,107715,Réaliser des soins infirmiers
+191YTHW,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YTHW,107715,Réaliser des soins infirmiers
+191YTFX,107474,Concevoir un projet thérapeutique
+191YTFX,107494,"Détecter des contre-indications suite à des fractures, des infections osseuses et orienter le patient vers un médecin, psychologue, ..."
+191YTFX,107496,Organiser la séance de kinésithérapie et l'adapter
+191YTFX,107493,Réaliser le diagnostic masso kinésithérapique à partir de tests de force musculaire et de posture
+191YTFX,300408,"Rédiger un rapport, un compte rendu d'activité"
+191YSMB,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YSMB,107715,Réaliser des soins infirmiers
+191YPVY,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YPVY,107715,Réaliser des soins infirmiers
+191YPPF,107715,Réaliser des soins infirmiers
+191YLDZ,107201,Actualiser le dossier médical du patient
+191YLDZ,107198,Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+191YLDZ,107199,"Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie"
+191YLDZ,107197,"Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique"
+191YKNH,107201,Actualiser le dossier médical du patient
+191YKNH,107198,Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+191YKNH,107199,"Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie"
+191YKNH,107197,"Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique"
+191YJXW,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191YJXW,107715,Réaliser des soins infirmiers
+191XXQQ,122112,Analyse de données de production
+191XXQQ,300175,"Piloter la gestion de la production, de l'exploitation"
+191XXQQ,300312,Mettre en place des solutions d'amélioration de la performance
+191XFMY,107201,Actualiser le dossier médical du patient
+191XFMY,107198,Déterminer les besoins thérapeutiques et réaliser les soins médicaux
+191XFMY,107199,"Réaliser la prescription médicale, expliquer les modalités de traitement au patient et le conseiller sur l'hygiène de vie"
+191XFMY,107197,"Recenser les symptômes, les dysfonctionnements, cerner l'environnement de vie du patient et procéder à l'examen clinique"
+191XFMY,123928,Analyser des situations de risque et proposer des solutions
+191XFMY,404199,"Analyser, évaluer la situation médicale, clinique et psycho-sociale d'une personne"
+191XFMY,300472,Coordonner l'intervention d'équipes pluridisciplinaires
+191XFMY,122139,Mettre en oeuvre un projet thérapeutique
+191XFMY,404210,Organiser la coordination des professionnels de santé (internes et externes) intervenant dans l'établissement
+191XDZC,119632,Art thérapie
+191XDZC,107475,"Concevoir le programme de rééducation (réadaptation aux gestes de la vie quotidienne, réapprentissage de repères spatiaux) et l'adapter selon l'état de la personne"
+191XDZC,107474,Concevoir un projet thérapeutique
+191XDZC,107476,"Informer et conseiller la personne sur des aménagements, des équipements ou des appareillages"
+191XDZC,107473,"Réaliser le bilan des capacités physiques, cognitives et évaluer le degré d'autonomie de la personne dans son environnement domestique ou professionnel"
+191XDZC,300022,"Enseigner, transmettre des connaissances, développer des compétences"
+191XDZC,402001,Participer à un projet pluridisciplinaire
+191XDZC,107484,Pratiquer des actions de rééducation d'ergothérapie
+191WDCD,107474,Concevoir un projet thérapeutique
+191WDCD,107493,Réaliser le diagnostic masso kinésithérapique à partir de tests de force musculaire et de posture
+191WDCD,107494,"Détecter des contre-indications suite à des fractures, des infections osseuses et orienter le patient vers un médecin, psychologue, ..."
+191WDCD,107496,Organiser la séance de kinésithérapie et l'adapter
+191WDCD,300408,"Rédiger un rapport, un compte rendu d'activité"
+191VZYJ,116708,Procédures d'entretien de véhicules
+191VZYJ,116797,Techniques de réparation rapide
+191VMFP,106662,"Entretenir l'installation sanitaire, de chauffage et de production d'eau chaude"
+191VMFP,300185,Réaliser un diagnostic technique
+191VMFP,300182,"Réparer un équipement, une machine, une installation"
+191VJCY,101910,Techniques de coupes de cheveux
+191VJCY,101901,Accueillir le client et l'installer
+191VJCY,101903,"Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing"
+191VJCY,101918,Réaliser une coupe ou une coiffure
+191VFLD,101910,Techniques de coupes de cheveux
+191VFLD,101901,Accueillir le client et l'installer
+191VFLD,101903,"Réaliser le diagnostic capillaire, les préparations du lavage et le shampoing"
+191VFLD,101918,Réaliser une coupe ou une coiffure
+191SFVG,116708,Procédures d'entretien de véhicules
+191SFVG,116797,Techniques de réparation rapide
+191RXXJ,110527,Contrôler l'état de fonctionnement du véhicule
+191RXXJ,110473,Optimiser un plan de chargement des marchandises
+191RXXJ,124795,Organiser des itinéraires de livraison optimisés
+191RXXJ,120377,Réaliser les opérations d'attelage
+191RXXJ,110474,Vérifier l'exactitude et la conformité de documents de transport de marchandises
+191RTTM,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+191RTTM,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+191RTTM,107531,"Déterminer le besoin de rééducation orthophonique à partir de tests ou conseiller le patient sur un suivi complémentaire (soutien scolaire, accompagnement psychologique, ...)"
+191RTTM,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+191RTTM,124221,Renseigner des documents médico-administratifs
+191RSDV,100118,Fiscalité
+191RSDV,101360,Comptabilité générale
+191RSDV,117781,Comptabilité client
+191RSDV,117782,Comptabilité fournisseurs
+191RSDV,121077,Comptabilité bancaire
+191RSDV,300305,"Effectuer le suivi des commandes, la facturation"
+191RHCJ,107715,Réaliser des soins infirmiers
+191PWXQ,116708,Procédures d'entretien de véhicules
+191PWXQ,116797,Techniques de réparation rapide
+191PWXQ,489578,Angles de géométrie
+191PWXQ,489609,CAP maintenance des véhicules option voitures particulières
+191PWXQ,491677,Caractéristiques des pneumatiques
+191PWXQ,490488,Caractéristiques des systèmes de freinage
+191PWXQ,489649,Habilitation électrique BOL/BCL/B2VL/BCL
+191PWXQ,489723,Titre à finalité professionnelle Mécanicien automobile
+191PWXQ,489729,Titre professionnel mécanicien automobile
+191PWXQ,489755,Appliquer les normes relatives à la manipulation de fluides frigorigènes
+191PWXQ,489756,Appliquer les normes relatives à la prévention des risques électriques
+191PWXQ,483963,Assurer la maintenance des outils et équipements de l'atelier
+191PWXQ,113751,Conduire un véhicule léger
+191PWXQ,104357,Conseiller les clients sur l'entretien nécessaire et les options de réparation
+191PWXQ,489773,Contrôler et régler les trains roulants
+191PWXQ,489774,"Contrôler et remplacer les éléments du système de freinage (classique, ABS, ESP)"
+191PWXQ,107047,Contrôler la conformité technique d'un véhicule
+191PWXQ,489785,Contrôler l'état de charge et de vieillissement d'une batterie de traction d'un véhicule
+191PWXQ,489787,Contrôler visuellement les éléments de charge d'un véhicule électrique et/ou hybride
+191PWXQ,483962,Mettre à jour les logiciels embarqués des véhicules
+191PWXQ,489836,Réaliser la maintenance des systèmes de dépollution essence ou diesel d'un moteur thermique
+191PWXQ,489837,Réaliser la maintenance des systèmes de direction
+191PWXQ,489838,Réaliser la maintenance des systèmes d'embrayage
+191PWXQ,489841,Réaliser la maintenance des systèmes de suralimentation essence ou diesel d'un moteur
+191PWXQ,489839,Réaliser la maintenance des systèmes injection essence ou diesel d'un moteur thermique
+191PWXQ,489840,Réaliser la maintenance du circuit de climatisation
+191PWXQ,491735,Réaliser le diagnostic des trains roulants
+191PWXQ,489850,Réaliser le diagnostic du circuit de climatisation
+191PWXQ,490421,"Réaliser les diagnostics des différents organes (ou systèmes) du véhicule: moteur, direction, freinage, embrayage, transmissions ou encore climatisation"
+191PWXQ,489853,"Réaliser les opérations d'entretien des circuits d'allumage, air, carburant, échappement du moteur"
+191PWXQ,489854,Réaliser les opérations d'entretien des circuits de lubrification
+191PWXQ,489855,"Réaliser les opérations d'entretien des éléments électriques, de sécurité, de confort d'un véhicule"
+191PWXQ,489856,"Réaliser les opérations d'entretien des pneumatiques, amortisseurs et suspensions"
+191PWXQ,489857,Réaliser les opérations d'entretien du système de freinage
+191PWXQ,489858,"Réaliser les opérations d'entretien du système de transmission (embrayage, boite de vitesse)"
+191PWXQ,489865,Remplacer et réparer les pneumatiques
+191PWXQ,489866,"Remplacer les organes de transmission (embrayage, boite de vitesse)"
+191PWXQ,489867,Remplacer une batterie de démarrage et de servitude (<60 volts cc)
+191PWXQ,489871,Renseigner un ordre de réparation afin d'assurer la traçabilité des travaux réalisés
+191PWXQ,490422,Utiliser des logiciels de diagnostic automobile
+191JQGH,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+191JQGH,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+191JQGH,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+191JQGH,107531,"Déterminer le besoin de rééducation orthophonique à partir de tests ou conseiller le patient sur un suivi complémentaire (soutien scolaire, accompagnement psychologique, ...)"
+191JQGH,124221,Renseigner des documents médico-administratifs
+191JQFC,107643,"Cerner l'environnement du patient (psychologique, familial), répertorier ses difficultés (état des acquisitions, troubles cognitifs, attention) et l'informer sur la démarche psychomotrice"
+191JQFC,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+191JQFC,107644,"Procéder aux tests psychomoteurs et analyser les informations recueillies lors de l'évaluation (manifestations cliniques, motivation, ...)"
+191JQFC,107474,Concevoir un projet thérapeutique
+191JQFC,124221,Renseigner des documents médico-administratifs
+191JQFC,,Qualité rédactionnelle
+191JQCM,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+191JQCM,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+191HMKS,121482,Appliquer les mortiers
+191HMKS,400081,Assembler et positionner les éléments d'armatures et les caissons pour le béton
+191HMKS,122952,Monter les murs en utilisant les matériaux adaptés
+191HMKS,123667,Réaliser des enduits
+191HMKS,103767,Terrasser et niveler la fondation
+191GWLB,120010,Production culinaire
+191GWLB,100359,Règles d'hygiène et de sécurité alimentaire
+191GWLB,122435,Système Hazard Analysis Critical Control Point (HACCP)
+191GWLB,485916,Encadrer et coordonner une équipe
+191GWLB,403623,"Contrôler la qualité de la production de ses équipes, ainsi que la bonne utilisation des équipements et matériels présents en cuisine"
+191GWLB,403583,Assurer le respect des normes d'hygiène et de sécurité alimentaire
+191GWLB,300243,"Contrôler les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+191GWLB,300446,"Respecter les règles de Qualité, Hygiène, Sécurité, Santé et Environnement (QHSSE)"
+191GWLB,124935,Dresser des plats pour le service
+191FQXQ,,Sens de l'organisation
+191FQXQ,,Connaissance du secteur santé appréciée
+191FQXQ,,Qualités relationnelles
+191FQXQ,,Aptitude managériale
+191FQXQ,,Expérience similaire sur poste de chef de cuisine
+191CFGP,107662,Accompagner les patients dans les gestes de la vie quotidienne
+191CFGP,107920,Effectuer les courses d'une personne
+191CFGP,107948,"Dépoussiérer les sols, les tapis, les meubles, les objets et aérer, désodoriser les pièces"
+191CFGP,115131,Préparer des repas
+191CFGP,116932,Assurer le suivi des stocks en temps réel
+191CFGP,120699,Entretenir le linge
+191CFGP,300282,"Entretenir, nettoyer un espace, un lieu, un local"
+191BYCT,104415,Automatisme
+191BYCT,119425,Utilisation de logiciels de conception et fabrication assistée par ordinateur (CFAO)
+191BYCT,119672,Utilisation de logiciels de CAO/DAO
+191BYCT,104407,"Réaliser et faire évoluer les schémas, les plans de détails, de sous-ensembles ou d'ensembles"
+191BYCT,104419,"Identifier la demande et réaliser les ébauches, schémas de pièces, systèmes, sous-ensembles ou ensembles"
+191BYCT,104420,Réaliser des relevés dimensionnels
+191BYCT,104421,"Étudier et concevoir des pièces, sous-ensembles ou ensembles"
+191BYCT,114788,Concevoir des procédures de fabrication
+191BYCT,122790,Élaborer une nomenclature
+191BYCT,300153,"Utiliser un outil, une machine, un équipement, une installation"
+191BYCT,300448,"Respecter des règles, des consignes, normes et procédures opérationnelles"
+191BYCT,402319,Utiliser des logiciels de modélisation et simulation
+190XWCV,121482,Appliquer les mortiers
+190XWCV,400081,Assembler et positionner les éléments d'armatures et les caissons pour le béton
+190XWCV,103767,Terrasser et niveler la fondation
+190XWCV,122952,Monter les murs en utilisant les matériaux adaptés
+190XWCV,123667,Réaliser des enduits
+190PTHL,102096,Normes d'hygiène et de propreté
+190PTHL,107948,"Dépoussiérer les sols, les tapis, les meubles, les objets et aérer, désodoriser les pièces"
+190PTHL,107920,Effectuer les courses d'une personne
+190PTHL,300551,Entretenir le linge de maison et les vêtements
+190MNFL,116708,Procédures d'entretien de véhicules
+190MNFL,116797,Techniques de réparation rapide
+190MNFL,107046,"Changer ou réparer les moteurs, boîtes de vitesse, embrayages, suspensions, démarreurs"
+190MNFL,118362,Déterminer une solution technique de remise en état du véhicule et des équipements
+190LNJH,107715,Réaliser des soins infirmiers
+190LDVZ,100822,Techniques d'usinage
+190LDVZ,300135,"Monter et régler une installation, une machine"
+190LDVZ,402224,"Paramétrer et utiliser des instruments de mesure, de découpe, de fabrication"
+190LDVZ,402279,Régler les paramètres d'usinage
+190FJNN,117205,Accomplir des démarches pour le compte de clients
+190FJNN,300338,Appliquer un cadre juridique ou réglementaire
+190FCHM,300318,Réaliser des opérations comptables
+190DLTP,125986,Modalités de sécurisation d'un chantier
+190DLTP,103044,Plan Particulier de Sécurité et de Protection de la Santé -PPSPS-
+190DLTP,119618,Apporter un appui technique aux équipes de chantier
+190DLTP,403430,Assister les équipes lors de la réalisation de tâches complexes ou en cas de problèmes majeurs
+190DLTP,403503,Contrôler les calendriers d'avancement des travaux et effectuer les ajustements nécessaires au respect des délais et du budget engagé
+190DLTP,403547,Coordonner les travaux avec d'autres corps de métier
+190DLTP,403418,Coordonner l'intervention des machines et des engins de chantier
+190DLTP,125971,Définir des besoins en approvisionnement
+190DLTP,300150,Définir et mettre en oeuvre des protocoles de sécurité
+190DLTP,403369,"Effectuer le suivi administratif (pointage…), définir les plannings et les affectations d'équipes au quotidien"
+190DLTP,403501,Effectuer régulièrement les revues de chantier avec le conducteur de travaux afin de suivre l'avancement global du chantier
+190DLTP,403555,Faire respecter les règles du plan particulier de sécurité et de protection de la santé (PPSP)
+190DLTP,403509,"Fixer au quotidien les objectifs de production (qualité, respect des délais) aux chefs d'équipe et les aider en cas d'incidents (déplacement d'engins, rectification de métrés, etc.)"
+190DLTP,122721,Identifier des moyens techniques et matériels pour un chantier
+190DLTP,300459,Prendre une décision et l'expliquer
+190DLTP,300236,Préparer l'exécution du chantier
+190DLTP,300408,"Rédiger un rapport, un compte rendu d'activité"
+190DLTP,403582,"Veiller à l'application et au respect des règles d'hygiène, de sécurité (port du casque…), et environnement (gestion des déchets, pollution sonore, etc.) sur le chantier"
+190DBSZ,107530,"Cerner le type de dysfonctionnement (troubles de la voix, du langage oral), les difficultés (gêne, manifestations) et l'environnement du patient"
+190DBSZ,107533,Concevoir le programme de la séance d'orthophonie et adapter les exercices selon l'état du patient
+190DBSZ,107531,"Déterminer le besoin de rééducation orthophonique à partir de tests ou conseiller le patient sur un suivi complémentaire (soutien scolaire, accompagnement psychologique, ...)"
+190DBSZ,107477,"Réaliser le bilan de fin de rééducation avec la personne et échanger des informations avec le médecin, l'enseignant, ..."
+190DBSZ,124221,Renseigner des documents médico-administratifs
+190CFBN,107814,Analyser le contexte de vie d'une personne
+190CFBN,107815,"Déterminer le besoin en accompagnement psychologique, arrêter les modalités avec la personne ou l'orienter vers un médecin, service social, personnel paramédical"
+190CFBN,300041,Réaliser un accompagnement psychologique
+189SCVF,107098,"Contrôler la géométrie des châssis, coques, berceaux et redresser les éléments de carrosserie déformés ou les remplacer"
+189SCVF,107099,Remplacer un vitrage inamovible ou amovible
+189QTWC,118772,Établir des rapports de progression des travaux
+189QTWC,123640,Présenter un dossier de chantier au chef de chantier et aux intervenants
+189QTWC,300396,Développer et piloter un réseau d'organisations partenaires
+189QTWC,300436,Organiser le travail d'une équipe
+189QTWC,,électricité
+189CBHN,117019,Méthodes et procédures de contrôle comptable
+189CBHN,300324,Concevoir des supports de suivi et de gestion
+189CBHN,300449,Expliquer et faire respecter les règles et procédures
+189CBHN,300318,Réaliser des opérations comptables
+189CBHN,300333,Réaliser un audit financier
+188CDHQ,300318,Réaliser des opérations comptables
+188CCPD,300318,Réaliser des opérations comptables
+188CBZN,300016,"Conseiller une organisation, une structure"
+188BZKR,300318,Réaliser des opérations comptables
+188BYJG,300318,Réaliser des opérations comptables
+188BYBJ,300318,Réaliser des opérations comptables
